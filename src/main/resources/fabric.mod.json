@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "eventclubmod",
+	"version": "${version}",
+	"name": "EventClub Mod",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": ["Razavi"],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/eventclubmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.eventclubmod.EventClubMod"],
+		"client": ["com.eventclubmod.EventClubModClient"]
+	},
+	"mixins": [
+		"eventclubmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.7",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,31 @@
+# Build system
+.gradle/
+build/
+out/
+# Loom/Fabric runtime
+run/
+# IDE
+.idea/
+.vscode/
+*.iml
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# Java
+*.classpath
+*.project
+.settings/
+# Keep Gradle wrapper tracked
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!gradlew
+!gradlew.bat
+!settings.gradle
+!build.gradle
+!gradle.properties
+# Do not ignore sources/resources
+!src/
+!LICENSE
+!README.md
