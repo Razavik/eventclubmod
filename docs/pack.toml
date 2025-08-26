@@ -1,0 +1,13 @@
+name = "EventClub"
+author = "Razavik"
+version = "0.1.6"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fb9dd9e434ec8acc8cad468c71a13265d77bd77fc7b66ae7e34b2ce8e6ae5769"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.7"

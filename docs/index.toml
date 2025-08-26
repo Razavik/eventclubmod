@@ -1,0 +1,2359 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".gradle/8.14.2/checksums/checksums.lock"
+hash = "0c59493085acfcaeb285a3942dfd867e53f7edeee54330fa903e502744036f3b"
+
+[[files]]
+file = ".gradle/8.14.2/checksums/md5-checksums.bin"
+hash = "057b4425ce4e7e12b4d7088ae10cc168ae83e30e126914aebb15576276f42586"
+
+[[files]]
+file = ".gradle/8.14.2/checksums/sha1-checksums.bin"
+hash = "0473b6e53731c7fcef8e920fe083a230c442144c5ae7916726c6f82178c5bd82"
+
+[[files]]
+file = ".gradle/8.14.2/executionHistory/executionHistory.bin"
+hash = "fcca11204c79c6b8a2794115d34dff45a191230a1ff8669b61ea28419d91db6c"
+
+[[files]]
+file = ".gradle/8.14.2/executionHistory/executionHistory.lock"
+hash = "b791538d8f90898b21ff82445898abbfc39ddb3be838e176328aadfdbc57ddc3"
+
+[[files]]
+file = ".gradle/8.14.2/fileChanges/last-build.bin"
+hash = "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+
+[[files]]
+file = ".gradle/8.14.2/fileHashes/fileHashes.bin"
+hash = "39c981d298689138db8f5e26226bbea8b796e40a166a1ef1b9a0bb762ccf08dd"
+
+[[files]]
+file = ".gradle/8.14.2/fileHashes/fileHashes.lock"
+hash = "483274e09cabaa95d652787b72a4507fa30b6d730404005bc51102c85fc0eeb4"
+
+[[files]]
+file = ".gradle/8.14.2/fileHashes/resourceHashesCache.bin"
+hash = "d49ee20c73d2cf7039d3fe866cb1a3b7e553620fffe27caa7c48d98d4e5b91a0"
+
+[[files]]
+file = ".gradle/8.14.2/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".gradle/buildOutputCleanup/buildOutputCleanup.lock"
+hash = "6081a4e28f4156544ef1307b6130c99684303a98c929a5569eb9259244efb1ff"
+
+[[files]]
+file = ".gradle/buildOutputCleanup/cache.properties"
+hash = "53ad3ee0ab35882544d9fb78b869db6f20375dc5184c4796f98493d20bafcc98"
+
+[[files]]
+file = ".gradle/buildOutputCleanup/outputFiles.bin"
+hash = "72243ba25510fbd0edb147328daad6cf0f3e072db7e79e50b8869d38a7542891"
+
+[[files]]
+file = ".gradle/file-system.probe"
+hash = "b15201ad3c8190b7b2c63f2517f1cf0bc5b2dacdc9c363018b1430bdef341da3"
+
+[[files]]
+file = ".gradle/loom-cache/launch.cfg"
+hash = "ac3bee8294329325140390d780be78c4b34a0032f3f6aca6bb2d22ded02b9edb"
+
+[[files]]
+file = ".gradle/loom-cache/log4j.xml"
+hash = "97ad5f104b8500daa8311068b398bf6879857b53d441d1686036d1dac46fafa9"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.jar"
+hash = "7d16e53939f1840f46694569bd44ae8ae4651a8c1e67cbb58ae2455c5e2a2695"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.jar.backup"
+hash = "7d16e53939f1840f46694569bd44ae8ae4651a8c1e67cbb58ae2455c5e2a2695"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.pom"
+hash = "edf1cc6998d3bf75e573cc5ac72bb0cb18a159aa80901e77b9b6b93a2d7b5b66"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2-sources.jar"
+hash = "c2206b3fe422fd73ef16e406aec86c38d95a223495f50b8b65cd9103f16c3f2b"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar"
+hash = "71adb1633554236f6d89026c3c1d5ecbc11862f564a808a53c3a440749ef3d70"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar.backup"
+hash = "83eb2ab8b83d592301cb9a473056de76cb1cf288441b72057c7d21bc873f2543"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar.backup.linemap.txt"
+hash = "1c18cfcf5eceaa9c3b0dd11a343fd7bf240aabedd92724b53650b13fd9ab6597"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-clientOnly-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-clientOnly-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.pom"
+hash = "529bc3c8a47c2bafab9d2f1f071a98d9d97bf566dca5cd5c03f29a179562a19c"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-common-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.jar"
+hash = "67c36882fccb249b78e47fc33594b7a96e7bf9a6b5dad52b64fe92893533f6bf"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-common-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.jar.backup"
+hash = "67c36882fccb249b78e47fc33594b7a96e7bf9a6b5dad52b64fe92893533f6bf"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2/minecraft-common-077c1ca8a6-1.21.7-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.pom"
+hash = "cfdba24497bd2ee7a06da5a09065c9d0fa5da652a7fd8b82c15c1274a68fe24b"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2-sources.jar"
+hash = "73455e4998bdfdb9a60fa495b0c9aa5d10a0eb59347933b38c6610b4eeb7e84c"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar"
+hash = "c422b937f27769dd4619257b60777f85236079b76e5e1c00860b2af7650c67bc"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar.backup"
+hash = "73c96fd4f48a86a56c7179c6d65c0d8e06a3e48d3734f2ecec287b130ed3ebeb"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.jar.backup.linemap.txt"
+hash = "1a397e61788c107eeee39bdb1de7439e26e11525cb55bae05a44229a073659e1"
+
+[[files]]
+file = ".gradle/loom-cache/minecraftMaven/net/minecraft/minecraft-common-077c1ca8a6/1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2/minecraft-common-077c1ca8a6-1.21.8-net.fabricmc.yarn.1_21_8.1.21.8+build.1-v2.pom"
+hash = "b78740436bf06cf7ea3267cc68ac7ecfa7f8b8323ce201105fa74b56dd6d5e22"
+
+[[files]]
+file = ".gradle/loom-cache/remapClasspath.txt"
+hash = "dd1c295130bd66c5c4f4ff9eb712c45194bad49008b84f36307b84e9d676be83"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-38fd57e8-common/0.129.0+1.21.7/fabric-api-38fd57e8-common-0.129.0+1.21.7-sources.jar"
+hash = "85584c2ed808bfcb4b3d7c1278661d7c36b2cc89e860dcb5b703c648b62d0ba2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-38fd57e8-common/0.129.0+1.21.7/fabric-api-38fd57e8-common-0.129.0+1.21.7.jar"
+hash = "70f76b63b71dc83eb567d1d5f0f46083fe37d64c9b39b3ae0f2ff9e408e112c9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-38fd57e8-common/0.129.0+1.21.7/fabric-api-38fd57e8-common-0.129.0+1.21.7.pom"
+hash = "64cc62264538ef3e29765a4b38f022af3016e47303003c15d15c8d560f4d6fd5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-a5b452c0-common/0.129.0+1.21.8/fabric-api-a5b452c0-common-0.129.0+1.21.8-sources.jar"
+hash = "4379f2097a89e7215652a88a498bcdb769de778e1a59b93165d593f6786aeebb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-a5b452c0-common/0.129.0+1.21.8/fabric-api-a5b452c0-common-0.129.0+1.21.8.jar"
+hash = "cba95367756e9a426dd5baa6eba4f63a4dffd15194595d5e10c979be712a4dc0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-a5b452c0-common/0.129.0+1.21.8/fabric-api-a5b452c0-common-0.129.0+1.21.8.pom"
+hash = "f19740cbf29a47686c8304a34796900ad46e5163edfa23a645543c2c30e67b52"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-38fd57e8-common/0.4.64+9ec45cd86c/fabric-api-base-38fd57e8-common-0.4.64+9ec45cd86c-sources.jar"
+hash = "5900fe648aa4cb5c999eb918a462094aedff6ef387bbfb089c6a3b502c0c5bc1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-38fd57e8-common/0.4.64+9ec45cd86c/fabric-api-base-38fd57e8-common-0.4.64+9ec45cd86c.jar"
+hash = "5ed2dc9539ce3694f54a45cf0412b6e4579f183afb48811b09e4da4598c05ad1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-38fd57e8-common/0.4.64+9ec45cd86c/fabric-api-base-38fd57e8-common-0.4.64+9ec45cd86c.pom"
+hash = "8b3a4e49f92ef5e1fb530a03641e69a845215ecaf38728138a4efeed0202aa25"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-a5b452c0-common/0.4.64+9ec45cd8f3/fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3-sources.jar"
+hash = "e418fd327aaf1cac5719423c3ab7ca5d10cf13c74f7d510d2899c995d4ed7d8c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-a5b452c0-common/0.4.64+9ec45cd8f3/fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3.jar"
+hash = "c65ac2780c948a2c0c99b68e505ece17db98e13eaf3a75178d2a10ab47e047f6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-base-a5b452c0-common/0.4.64+9ec45cd8f3/fabric-api-base-a5b452c0-common-0.4.64+9ec45cd8f3.pom"
+hash = "ae7a5922e71cbc9ee3339b1bdecdfd026b1046a0a138901229399bb4976de6cf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-38fd57e8-common/1.6.100+946bf4c36c/fabric-api-lookup-api-v1-38fd57e8-common-1.6.100+946bf4c36c-sources.jar"
+hash = "a334b07e5bf9bc2b5613ee87ee8e0bde1f837403ea6696964e8de8326801d017"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-38fd57e8-common/1.6.100+946bf4c36c/fabric-api-lookup-api-v1-38fd57e8-common-1.6.100+946bf4c36c.jar"
+hash = "18da3827b4f0e1cdeef315996f5d741957e3a31ff8d16dcc1ef6a71aec1692c5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-38fd57e8-common/1.6.100+946bf4c36c/fabric-api-lookup-api-v1-38fd57e8-common-1.6.100+946bf4c36c.pom"
+hash = "cc65fee7e291d3bbf788ea94329f8566d16007cbc881ebe8d5d9402ab6207a93"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-a5b452c0-common/1.6.100+946bf4c3f3/fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3-sources.jar"
+hash = "9ba8e53215574b91bf1865cecfe9ff3f4e0a6cf4114cc176fba5dbfbc2fc39f7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-a5b452c0-common/1.6.100+946bf4c3f3/fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3.jar"
+hash = "d9895b28685ae12804b0b1ec3ca359f96dbcd0470d3f93a46d8a13c5a8406d1c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-api-lookup-api-v1-a5b452c0-common/1.6.100+946bf4c3f3/fabric-api-lookup-api-v1-a5b452c0-common-1.6.100+946bf4c3f3.pom"
+hash = "b0f16d8618ef3e28362d1b1be3430f1071cf8e27151dc7fe07db4b393a29afcc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-38fd57e8-common/16.0.11+946bf4c36c/fabric-biome-api-v1-38fd57e8-common-16.0.11+946bf4c36c-sources.jar"
+hash = "cf8e846db113da3e91a042ec356d1f4b8af9b301dce31e7514bd710e22e309a1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-38fd57e8-common/16.0.11+946bf4c36c/fabric-biome-api-v1-38fd57e8-common-16.0.11+946bf4c36c.jar"
+hash = "078086ae90991f52790b4b53940a0f5e992acfcf460d8e0873196d4b85a16342"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-38fd57e8-common/16.0.11+946bf4c36c/fabric-biome-api-v1-38fd57e8-common-16.0.11+946bf4c36c.pom"
+hash = "438b21b5df5fa67818ad241f4b3184ccb70e0c9204c3d2f4ad8eeb0695a8e4d2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-a5b452c0-common/16.0.11+946bf4c3f3/fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3-sources.jar"
+hash = "f0832340891cda1c381fff1e0dfd22ed806f7f49fd07b74eb55dc96f4c9c162a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-a5b452c0-common/16.0.11+946bf4c3f3/fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3.jar"
+hash = "ceea560f45b5d25f645a889b9ce2cf9b76cff6b1dce1139311182db9e87dc698"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-biome-api-v1-a5b452c0-common/16.0.11+946bf4c3f3/fabric-biome-api-v1-a5b452c0-common-16.0.11+946bf4c3f3.pom"
+hash = "2a66d5b0830faf0b8dbe7c9aa9604bb0a395fad02dbd3732e87f2d417fe343d0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-38fd57e8-common/1.1.3+946bf4c36c/fabric-block-api-v1-38fd57e8-common-1.1.3+946bf4c36c-sources.jar"
+hash = "09e704a1c9c446db9ff159244e2a80c7af4e1bc9801ef3ee400b2e5762866a3a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-38fd57e8-common/1.1.3+946bf4c36c/fabric-block-api-v1-38fd57e8-common-1.1.3+946bf4c36c.jar"
+hash = "2ddb882f69e7f76cfe14eb82c09a23314f6ab52d3800175d1c50febcdfa8b9e3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-38fd57e8-common/1.1.3+946bf4c36c/fabric-block-api-v1-38fd57e8-common-1.1.3+946bf4c36c.pom"
+hash = "1db89c0445435803dd4e1c668bfa0acb6d279d82c5bce3cc21ce1a168302c7f4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-a5b452c0-common/1.1.3+946bf4c3f3/fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3-sources.jar"
+hash = "5857965e68d282d369abc8df275755b47eb84b5e334418c494d90af29e9b7b28"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-a5b452c0-common/1.1.3+946bf4c3f3/fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3.jar"
+hash = "24bcdc514d15ba6f12ad83a0be00d7cac784f8748b8b866de56b45283a5e300a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-api-v1-a5b452c0-common/1.1.3+946bf4c3f3/fabric-block-api-v1-a5b452c0-common-1.1.3+946bf4c3f3.pom"
+hash = "7e23723ac5cc45446d1772a1309a57d467df861b4268e908320a043d9eb2fa25"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-client/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-client-1.0.31+946bf4c36c-sources.jar"
+hash = "e4f1faee2b4a2070e6f6f2bd8546cca9eb42513890acf884a61a56fb0ad7dfca"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-client/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-client-1.0.31+946bf4c36c.jar"
+hash = "57519a550f540bb8a6a64f729135049da829e80c92eddc00b1b0490ad5f51948"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-client/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-client-1.0.31+946bf4c36c.pom"
+hash = "9a4e8d98ba5294b1a96724ef1734e6d1bc5923273f9aaf4856d57d9a673d9bd9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-common/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-common-1.0.31+946bf4c36c-sources.jar"
+hash = "75f58ab5d4c4aa1acc741857947b1cb859e984fbfacec58ee57ae6202a4179d7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-common/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-common-1.0.31+946bf4c36c.jar"
+hash = "05b7e23e7aba7b78773f3e886a9a5555a3027f32000055c3fd952083d1f4f8f6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-38fd57e8-common/1.0.31+946bf4c36c/fabric-block-view-api-v2-38fd57e8-common-1.0.31+946bf4c36c.pom"
+hash = "109816672e47d819d0bb44b35442dc1c9b8a98e1b209ea58577beeab142d5c0d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-client/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3-sources.jar"
+hash = "2acef42b0e71242fb5789a0f903ae50e4de660dad2435116328499d0eef489bc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-client/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3.jar"
+hash = "fc86e9097118f921a531feda00325aeacd685a4b58c0bb7bf52fe310f559569d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-client/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-client-1.0.31+946bf4c3f3.pom"
+hash = "73680d4296a4630d5df746aa8927deb9df8fed7416d78ad7e1c8ccf2ac5a1872"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-common/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3-sources.jar"
+hash = "88d8534e4da11c291393d0f71b5f698923b1364a8dcc3df1bfa52c192f0977f5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-common/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3.jar"
+hash = "20ba916dfe880dc3ff40c2f5a78668e7895f42cac1be3f899275930d430e394e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-block-view-api-v2-a5b452c0-common/1.0.31+946bf4c3f3/fabric-block-view-api-v2-a5b452c0-common-1.0.31+946bf4c3f3.pom"
+hash = "6ecf2b24889dfeee2f515f50a8d88642e73c12e89fa41ede2be7e2cde1cee66c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-38fd57e8-client/4.2.5+8a98c3fc6c/fabric-client-gametest-api-v1-38fd57e8-client-4.2.5+8a98c3fc6c-sources.jar"
+hash = "331ed1d27b378d4e936db453af05ddbac7dd1029e7a7e77efd3d6a5895dc385f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-38fd57e8-client/4.2.5+8a98c3fc6c/fabric-client-gametest-api-v1-38fd57e8-client-4.2.5+8a98c3fc6c.jar"
+hash = "0e9038d1b4a01f4e088efb1736b0eb5537053e8ef8a2933a591e208007d6a63b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-38fd57e8-client/4.2.5+8a98c3fc6c/fabric-client-gametest-api-v1-38fd57e8-client-4.2.5+8a98c3fc6c.pom"
+hash = "66dfa7ac9729a879ed6311224f84e1a16330ce76ee4731206dc6612bd8d96709"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-a5b452c0-client/4.2.5+8a98c3fcf3/fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3-sources.jar"
+hash = "91cc4214c40cdb0299dce44ed2d9d73d8c6335e5e320bf3f69d1dccbb40b28c4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-a5b452c0-client/4.2.5+8a98c3fcf3/fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3.jar"
+hash = "0af7f3fdc94642ad467333c41069d8a416d0451fec51e0554e219995e430ae03"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-client-gametest-api-v1-a5b452c0-client/4.2.5+8a98c3fcf3/fabric-client-gametest-api-v1-a5b452c0-client-4.2.5+8a98c3fcf3.pom"
+hash = "cb181c6d59e671d14a7242bf8b8efe5b63166f23cfeaefc03634a26927e80e38"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-client/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-client-2.2.53+946bf4c36c-sources.jar"
+hash = "b71fbe02ec44761705b5ecc02a8f3c264fb357da5159ae4cf599f73a2136ac34"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-client/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-client-2.2.53+946bf4c36c.jar"
+hash = "3b5592b2788b38adc6e6b46435ea0ab9fde7388789b4eab8480e52cda19cc43b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-client/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-client-2.2.53+946bf4c36c.pom"
+hash = "560793e13414c4a0a9daaeb4ce862e7404f259164dc9ba54f96fcd72b97ed7e9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-common/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-common-2.2.53+946bf4c36c-sources.jar"
+hash = "3b9d0b4c63384d08187312b011da3a18ef0a996158d262fb76995c8022fb74a1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-common/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-common-2.2.53+946bf4c36c.jar"
+hash = "143a2e8bc77cdf7bcb438b4132898d4e1fa53048e7d6eb493834a7d792d3a6ad"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-38fd57e8-common/2.2.53+946bf4c36c/fabric-command-api-v2-38fd57e8-common-2.2.53+946bf4c36c.pom"
+hash = "95cd3fd59f224225656cc74973094f2b9cdfe76ffd2bb5cbe7d82feb6492561d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-client/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3-sources.jar"
+hash = "811a127498351549d1b2b43ddff3d30400c4f97338f34cf676600ba15c8ac8f6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-client/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3.jar"
+hash = "08a5dc58125a8c1c0960cf11d35bf2d952cdc11fca7627f8cdace3ac6a9f81e8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-client/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-client-2.2.53+946bf4c3f3.pom"
+hash = "7f7223a6a2866378c240eb9f9f7959f3732f64f772daf607cb53011b523b46a9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-common/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3-sources.jar"
+hash = "8ddac6f8f719942e5087195fb6658b90204bfee1d989e31a5af88a2451414915"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-common/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3.jar"
+hash = "d4d779657bf5b8a5cc9755058bdae2a4d9388d891b8eea65a46b793b04617569"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-command-api-v2-a5b452c0-common/2.2.53+946bf4c3f3/fabric-command-api-v2-a5b452c0-common-2.2.53+946bf4c3f3.pom"
+hash = "36d4b852a9d4024c6907205ec5c4d56f788e3cb70e6cbfe4e29588649843e9c9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-38fd57e8-common/10.0.18+946bf4c36c/fabric-content-registries-v0-38fd57e8-common-10.0.18+946bf4c36c-sources.jar"
+hash = "fe6751e59331aba857d3ee6a0af92ff212aa66e4b398c5bcbad5ad531a58af27"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-38fd57e8-common/10.0.18+946bf4c36c/fabric-content-registries-v0-38fd57e8-common-10.0.18+946bf4c36c.jar"
+hash = "714427745683227a36c64935a3f74ec43a6c3d8f90a245624b24bc181ae6d380"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-38fd57e8-common/10.0.18+946bf4c36c/fabric-content-registries-v0-38fd57e8-common-10.0.18+946bf4c36c.pom"
+hash = "f8193995c95e75d8991cd5ca0d2bfcf69d1009c155ffe7c24d622bf0247b7204"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-a5b452c0-common/10.0.18+946bf4c3f3/fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3-sources.jar"
+hash = "6be97ce1812b3b767b702693597130c24866120c158f12aff4273f5534acd012"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-a5b452c0-common/10.0.18+946bf4c3f3/fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3.jar"
+hash = "21f7ec665ff81834ab2f00df4c97b5d7355f56be006c11ab25432f983c1cafe6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-content-registries-v0-a5b452c0-common/10.0.18+946bf4c3f3/fabric-content-registries-v0-a5b452c0-common-10.0.18+946bf4c3f3.pom"
+hash = "cc8fb84ec6a7d2775048ee1750320fb3c3be8d4afa9c0fc2490caa5fc0ffa742"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-38fd57e8-common/2.1.40+7f945d5b6c/fabric-convention-tags-v1-38fd57e8-common-2.1.40+7f945d5b6c-sources.jar"
+hash = "e71c19042141be5c53a1c195040136609d0be299afbde691dab2fa8d88337f79"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-38fd57e8-common/2.1.40+7f945d5b6c/fabric-convention-tags-v1-38fd57e8-common-2.1.40+7f945d5b6c.jar"
+hash = "822c4afca2ea8e823d9d426a3b5cfc89ec8ba5868b7e6607c0383d14d1ad87e2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-38fd57e8-common/2.1.40+7f945d5b6c/fabric-convention-tags-v1-38fd57e8-common-2.1.40+7f945d5b6c.pom"
+hash = "48d4d476d1283139b443db25ada409610eaf40d51ba2fd9e48fa22ab730c4543"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-a5b452c0-common/2.1.40+7f945d5bf3/fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3-sources.jar"
+hash = "0a23be554b1beae1013fcc70d3bb0f2244a52c96620006706dbfb733babea75e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-a5b452c0-common/2.1.40+7f945d5bf3/fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3.jar"
+hash = "be11f0f2915425bc4b45a1673f9a292f66bbd16c4e0a646597131d8233df51ec"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v1-a5b452c0-common/2.1.40+7f945d5bf3/fabric-convention-tags-v1-a5b452c0-common-2.1.40+7f945d5bf3.pom"
+hash = "8997ccdc815cb7326e1338b04a1ccdd92f3269fd6c3e2f39653c4bdcd15bab98"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-38fd57e8-common/2.15.5+eb5df52f6c/fabric-convention-tags-v2-38fd57e8-common-2.15.5+eb5df52f6c-sources.jar"
+hash = "b882b2f973b986a4ba37f9d7a1be855e5d32bbfaacef23df9d39d01afb04a647"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-38fd57e8-common/2.15.5+eb5df52f6c/fabric-convention-tags-v2-38fd57e8-common-2.15.5+eb5df52f6c.jar"
+hash = "f683ed085921885a34bb6d2e8a73ccfa28897e35f47a9efc8f7c2673fd23a4f7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-38fd57e8-common/2.15.5+eb5df52f6c/fabric-convention-tags-v2-38fd57e8-common-2.15.5+eb5df52f6c.pom"
+hash = "0659921e414d8d5cd31cab152491cde3c1bb21394405c59847e1a4a6236d36cf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-a5b452c0-common/2.15.5+eb5df52ff3/fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3-sources.jar"
+hash = "c592da9064ebf0d37e503d9454b31e67f17e32234f10cfc716cf13c952112384"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-a5b452c0-common/2.15.5+eb5df52ff3/fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3.jar"
+hash = "220b5eeb5524d5c83cd2c4e4826afcde70dfc356643c9e90d6fdad4fd9102731"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-convention-tags-v2-a5b452c0-common/2.15.5+eb5df52ff3/fabric-convention-tags-v2-a5b452c0-common-2.15.5+eb5df52ff3.pom"
+hash = "d3b1e14ae5443d44c1d326a0596c56473577d5dc54d1d4d26b058c207bd698ac"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-38fd57e8-common/0.3.15+946bf4c36c/fabric-crash-report-info-v1-38fd57e8-common-0.3.15+946bf4c36c-sources.jar"
+hash = "c28923e3711ca427ade642c2dcb68b2df1c5d903e62e847267e6da2f7288c14f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-38fd57e8-common/0.3.15+946bf4c36c/fabric-crash-report-info-v1-38fd57e8-common-0.3.15+946bf4c36c.jar"
+hash = "2f7c3ce7c102b2c0f01600aa36770add456c1fe2d7cd09cb637887ce55769eaa"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-38fd57e8-common/0.3.15+946bf4c36c/fabric-crash-report-info-v1-38fd57e8-common-0.3.15+946bf4c36c.pom"
+hash = "8dc8cc84df95dd1571affe8e76ee11722ebca7ae15373dd8193cd7cdb63f0a0b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-a5b452c0-common/0.3.15+946bf4c3f3/fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3-sources.jar"
+hash = "25aecc5b38cdc6b892b52e42a85c947ebe20e3d94ce07091709b6ad89851c7ba"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-a5b452c0-common/0.3.15+946bf4c3f3/fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3.jar"
+hash = "804c331297354103b357080762543f2f5d49c9343bcfa28495148358a055a262"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-crash-report-info-v1-a5b452c0-common/0.3.15+946bf4c3f3/fabric-crash-report-info-v1-a5b452c0-common-0.3.15+946bf4c3f3.pom"
+hash = "9188e565079d3914b1f38061f561198fbb28d2e752c5a0b3859b3efe9ec10b40"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-client/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-client-1.8.10+946bf4c36c-sources.jar"
+hash = "a354f14454fb37e31d6bbe8eaf9a1fc8cfe1639d499b04829fabb1972d9a9878"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-client/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-client-1.8.10+946bf4c36c.jar"
+hash = "5a3cb69113ae35b73911c11ff4e8cffc94883f5a7a26ee773bb35d4a2ab7d66a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-client/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-client-1.8.10+946bf4c36c.pom"
+hash = "de4e29b98658272968788e7c221abc483239f0eec722e0dc12ed53b1959face7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-common/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-common-1.8.10+946bf4c36c-sources.jar"
+hash = "2adf0206773609ad77c8e68104f6b9aeeee15828bf9523b211deba4ecc827921"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-common/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-common-1.8.10+946bf4c36c.jar"
+hash = "faccb6506ca63bc00318a232f1fb4b41cde964a8a34ca1cc9c045d085283556b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-38fd57e8-common/1.8.10+946bf4c36c/fabric-data-attachment-api-v1-38fd57e8-common-1.8.10+946bf4c36c.pom"
+hash = "9c7f4d9d92b989f0dc7da7ead3ac3086cafd0dd4b3d173ec4ac317589333d37e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-client/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3-sources.jar"
+hash = "2a2355b8537d05de437467e10d9f45014abc0cc7c911d8a29cae40e3f40178ad"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-client/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3.jar"
+hash = "b8077922736f0355bd229088dd30563385a68cc505103efdf0a11d69de706f00"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-client/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-client-1.8.10+946bf4c3f3.pom"
+hash = "647498f9eb995a7475b0b409b4ea8216669aca54d2e2137e89f5c5a0abf4adc9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-common/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3-sources.jar"
+hash = "424135347c898b00d068ddf050a6d8ffcd151b77ec7b70f2c6802c8b1e843101"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-common/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3.jar"
+hash = "4dbe25a1e8f6915dcc16b9eb4c623e609858ba57989682ba56687dceec825f80"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-attachment-api-v1-a5b452c0-common/1.8.10+946bf4c3f3/fabric-data-attachment-api-v1-a5b452c0-common-1.8.10+946bf4c3f3.pom"
+hash = "aebd79d18f8cbdac5c4a72e9f417dee3a10af6671711f9928b420128f5f0daeb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-client/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-client-23.2.4+55e55d296c-sources.jar"
+hash = "5cf408a442880682abf5d52c1573de5970ac60f240014d1b6c91ca3249a0f254"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-client/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-client-23.2.4+55e55d296c.jar"
+hash = "ed9802b5fe0fc2fac88eb7d65e92875f8c727fcb29e9814c8828eeaefea2a006"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-client/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-client-23.2.4+55e55d296c.pom"
+hash = "f81329a627f932afa9d1a52946e16d7d3ae9e7a4ef649cfede1d17e276ffbad2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-common/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-common-23.2.4+55e55d296c-sources.jar"
+hash = "19fda4e3a5a1f674bb5394074f84a32a692dc966d433c4483235f0080f7617a6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-common/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-common-23.2.4+55e55d296c.jar"
+hash = "ae3247db4f743146cbf702b7e6f2ed056839c59f95d883f1ae81685f690621aa"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-38fd57e8-common/23.2.4+55e55d296c/fabric-data-generation-api-v1-38fd57e8-common-23.2.4+55e55d296c.pom"
+hash = "3a4d5f04b8df48388751622be8595548d9cd8d605ac371cd2ad9c6ce82d194e7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-client/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3-sources.jar"
+hash = "452965e13a3bac4672d1e724a879184683f005e21a7e4e22ebdd5023b6ae1bc1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-client/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3.jar"
+hash = "9ed9387e12751062b5d8a871c7b25dfef877d03b536d689395c3578e2e23061f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-client/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-client-23.2.4+55e55d29f3.pom"
+hash = "b119473ddccda2e73f97ad334542c555a9286c926cc618e023cfc1558d849660"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-common/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3-sources.jar"
+hash = "d83ab2ebbd846384c8ada0442549c78c9d10f0091991c168806dbbfca88033dc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-common/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3.jar"
+hash = "02a4afe583f913ada1b0beb1fa06b74bec3fcac4795a1eaa4313d9224fd2baea"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-data-generation-api-v1-a5b452c0-common/23.2.4+55e55d29f3/fabric-data-generation-api-v1-a5b452c0-common-23.2.4+55e55d29f3.pom"
+hash = "4a8b0ee93b6cefbf979c50faa6f9b1f4e74cb39d2e7f365714073170e0bc1c38"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-38fd57e8-common/4.0.19+946bf4c36c/fabric-dimensions-v1-38fd57e8-common-4.0.19+946bf4c36c-sources.jar"
+hash = "5c0b43735f9a446f8a0e9c43b40227fadddaf76bd71e1baff067f0ee424abab1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-38fd57e8-common/4.0.19+946bf4c36c/fabric-dimensions-v1-38fd57e8-common-4.0.19+946bf4c36c.jar"
+hash = "5f6fbe8da68de2f5b27a96bac2c7a0800463fbb5dd4e35d8e984d5c26d69c631"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-38fd57e8-common/4.0.19+946bf4c36c/fabric-dimensions-v1-38fd57e8-common-4.0.19+946bf4c36c.pom"
+hash = "0b681a303895c87cd49aec27f0c2330fd9fa4b47cc93b03eb8ca58c9b9e77968"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-a5b452c0-common/4.0.19+946bf4c3f3/fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3-sources.jar"
+hash = "84eceb47f42df5a92e97b68f482d163669f854710924d039f1ced7e3dfe99206"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-a5b452c0-common/4.0.19+946bf4c3f3/fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3.jar"
+hash = "f37fc87edb4926c849d2a11df54886858f909bb6e23a3b7df47cc551e7f62c07"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-dimensions-v1-a5b452c0-common/4.0.19+946bf4c3f3/fabric-dimensions-v1-a5b452c0-common-4.0.19+946bf4c3f3.pom"
+hash = "c2b9d1dfca78d33e4546fe08834676455155d7cbf4c5728a57c9a9e2d8feb73c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-38fd57e8-common/2.1.1+c9e472736c/fabric-entity-events-v1-38fd57e8-common-2.1.1+c9e472736c-sources.jar"
+hash = "63778074a68569d911afafbb5f106cf65a7fbb8354720c100bf2e434a00d2168"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-38fd57e8-common/2.1.1+c9e472736c/fabric-entity-events-v1-38fd57e8-common-2.1.1+c9e472736c.jar"
+hash = "cb67cb19ff4e67c29e5e1d1a020bdf9cb6d36766251099a4cab78176412dead7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-38fd57e8-common/2.1.1+c9e472736c/fabric-entity-events-v1-38fd57e8-common-2.1.1+c9e472736c.pom"
+hash = "28bbd0bc1ea4ec94284ec369eb52ab4037a2fb66e4d7c968ece70095cbdabd35"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-a5b452c0-common/2.1.1+c9e47273f3/fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3-sources.jar"
+hash = "d56b6bd710ae9751d86d0f694870edff175a145b53984270482ae42978e68cd3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-a5b452c0-common/2.1.1+c9e47273f3/fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3.jar"
+hash = "8e209c069f50009edd2ebeae681de3ed6619dd8d7850418225d2d65f91f7797e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-entity-events-v1-a5b452c0-common/2.1.1+c9e47273f3/fabric-entity-events-v1-a5b452c0-common-2.1.1+c9e47273f3.pom"
+hash = "75991c3511e64cb785272c7d57fe31f633f119436b6a36e03d0c20d043d7e667"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-client/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-client-4.0.23+946bf4c36c-sources.jar"
+hash = "0481d1b7c7cb6b2d01361edeb3e225ef8100449e12b47b38d8ee3da1857829b1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-client/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-client-4.0.23+946bf4c36c.jar"
+hash = "52fc6e36604a6c240c8f9327240dfda1c8320a1928fe9cf8712142691fc82ae2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-client/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-client-4.0.23+946bf4c36c.pom"
+hash = "ee89b2143e1331c4a70471757d32fd29aea69aec9b5a998c6cb3bd80b70f49c9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-common/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-common-4.0.23+946bf4c36c-sources.jar"
+hash = "07d408567d5a4b98590789c16f64f0143337e2b58d267124383bfe8e5687f762"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-common/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-common-4.0.23+946bf4c36c.jar"
+hash = "a6becddb0b4477ced229769f3dd28d319daa1a086f9be492b01074d6e68fc47f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-38fd57e8-common/4.0.23+946bf4c36c/fabric-events-interaction-v0-38fd57e8-common-4.0.23+946bf4c36c.pom"
+hash = "79cde6e2b3bd2e90dac963633a3652c7b4a5918b83831ebea8d7d55fb3773617"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-client/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3-sources.jar"
+hash = "55d0d5ecd88457899cf7afc733f13124b109753cd69df515061d9a45733da281"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-client/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3.jar"
+hash = "783e2c64deeb24b01345b13aace80e310718217246e81108ccacca6a90d64ed6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-client/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-client-4.0.23+946bf4c3f3.pom"
+hash = "426beb29578e827ba2865ba885d0ead5e07b796ad39342f1584d119e0ed9df35"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-common/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3-sources.jar"
+hash = "b4d8fa397eb0e06b23997e36f9fccbcd04678cb006996a5011bb0f4dc2c0c172"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-common/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3.jar"
+hash = "35e521dabfc200ae78b7a4442f5a3bee15544c16a70c28857ffa215e0d22dd27"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-events-interaction-v0-a5b452c0-common/4.0.23+946bf4c3f3/fabric-events-interaction-v0-a5b452c0-common-4.0.23+946bf4c3f3.pom"
+hash = "0cce1b9b1730d8c829a0f859f438dc5e7f08f5813563423c506d8ab5ff7215f4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-client/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-client-1.0.73+c64c9c5b6c-sources.jar"
+hash = "647a5d6f9b05e06c723f9343488dcaa3e94c947ed23c476f60e72dbf5420edef"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-client/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-client-1.0.73+c64c9c5b6c.jar"
+hash = "d24ddfde5c7a3665ca47c31ff23a8b8bc83e7d320dd4451725aa42fd34f55154"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-client/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-client-1.0.73+c64c9c5b6c.pom"
+hash = "10bcfa69b4794914376b1e5d3eff6188d22e433834034e8d7bab1d4e0312f710"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-common/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-common-1.0.73+c64c9c5b6c-sources.jar"
+hash = "337f58572df50028b2a1761a72b3f5d29bfac0406d8078d0edab8c8180c10e67"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-common/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-common-1.0.73+c64c9c5b6c.jar"
+hash = "1e6fdaead3a0f5aa10f6271ae3b2ed92472cb89cde0f4599012cfe8335da8cff"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-38fd57e8-common/1.0.73+c64c9c5b6c/fabric-game-rule-api-v1-38fd57e8-common-1.0.73+c64c9c5b6c.pom"
+hash = "1750b100b9255fd0040dabbda2925814f165e8f63c8d975559743b5fea6e2ac6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-client/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3-sources.jar"
+hash = "23ad033bd2e40e46c7a203498985bc9fb096add952b29fa716451f8d97c93919"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-client/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3.jar"
+hash = "f37d5c07ac0b62a2f9dbf3134b4b2dedf74839949cad5d22d37d9f9fa56b3f64"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-client/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-client-1.0.73+c64c9c5bf3.pom"
+hash = "ce5df6650471163f1eed269a404a4bae9d05f1302e07b87100e838d6e8c05c7c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-common/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3-sources.jar"
+hash = "4660f458df984b123198221d6e5402f093a677efe991494d59e86b98ceea8bf9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-common/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3.jar"
+hash = "cbe5a8518f66068161554844eb59107001ac26229a4d4dddd377e3e15b3e907c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-game-rule-api-v1-a5b452c0-common/1.0.73+c64c9c5bf3/fabric-game-rule-api-v1-a5b452c0-common-1.0.73+c64c9c5bf3.pom"
+hash = "c5487347a5282fd7683f4663f42e7e707faec1507292099a9a719ab4cd8d68ea"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-38fd57e8-common/3.1.9+39ce47f56c/fabric-gametest-api-v1-38fd57e8-common-3.1.9+39ce47f56c-sources.jar"
+hash = "c15be977db6f945ad92b087e7682090d1ebbafd0638aca3ab9f2d4e96635ba9b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-38fd57e8-common/3.1.9+39ce47f56c/fabric-gametest-api-v1-38fd57e8-common-3.1.9+39ce47f56c.jar"
+hash = "257f7b8a760b1c2cfcc2292df3ceeb1063639657a83118e41e20738d438e98c1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-38fd57e8-common/3.1.9+39ce47f56c/fabric-gametest-api-v1-38fd57e8-common-3.1.9+39ce47f56c.pom"
+hash = "af21155d38755a4bc10f4fcdf9802df67498ecec483441881061f46cc8e005a3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-a5b452c0-common/3.1.9+39ce47f5f3/fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3-sources.jar"
+hash = "26ac2e966bac98bbb9b6c8bbe8134f0c7d93ce7623ccceb21b2724781dcb450e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-a5b452c0-common/3.1.9+39ce47f5f3/fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3.jar"
+hash = "a350dea9225c00c6c23cb40ba38b42a331399fedf5944b8b3b4444e33efeca31"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-gametest-api-v1-a5b452c0-common/3.1.9+39ce47f5f3/fabric-gametest-api-v1-a5b452c0-common-3.1.9+39ce47f5f3.pom"
+hash = "c52b19973861f39f06459a7987e6bbee130ae0cea68c98b7ea7a23821bc67d86"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-client/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-client-11.4.3+946bf4c36c-sources.jar"
+hash = "8b47276f8a4a73657d6a82f5057106e2b852869dea7af6a1a2e7555ffce37222"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-client/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-client-11.4.3+946bf4c36c.jar"
+hash = "20d6ed11a4eceaf965ee0ac2ebabf442a8f54e8a5693d745a9214a0eaf78159d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-client/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-client-11.4.3+946bf4c36c.pom"
+hash = "736dae7a67d9e5f409da3f7a154c077da52cd780415a3acc5cee2b31a5c8b96f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-common/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-common-11.4.3+946bf4c36c-sources.jar"
+hash = "c8b78e253bd84fc6b41cccc77d5e7bc2530d88fe276b9b37c5d258fff2dc2778"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-common/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-common-11.4.3+946bf4c36c.jar"
+hash = "8c7b20288499c8a38219e606d990532e3530010a2a41e232f1aeaa003b45ee30"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-38fd57e8-common/11.4.3+946bf4c36c/fabric-item-api-v1-38fd57e8-common-11.4.3+946bf4c36c.pom"
+hash = "82bf9b69e1df6234aede58881f5d66709eff56258b8ed8d6b8775e3effde3c2f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-client/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3-sources.jar"
+hash = "5fa1e7d663a89d73ffbdba05a125a30aaa98ad967491299e4434d727edcf937f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-client/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3.jar"
+hash = "6c3cae51ffa782c028fc2de247be893c6e0781c3a2b0d9f052708563319d7449"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-client/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-client-11.4.3+946bf4c3f3.pom"
+hash = "5238a68a0744aca32d57cbaa547d636c39d388cc85a326ad2784fe4e43d11e78"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-common/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3-sources.jar"
+hash = "b1c78686cd56bb2a611e8263ded1b9fa278591db26284224ef0130d9be325216"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-common/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3.jar"
+hash = "07aa04fa189af275d0811a820ac9892cbaddc34d31a8c4361c6c2cc7bfdf3565"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-api-v1-a5b452c0-common/11.4.3+946bf4c3f3/fabric-item-api-v1-a5b452c0-common-11.4.3+946bf4c3f3.pom"
+hash = "ac9a1afe0019fd78db21a1e8eeb59fb9611f7c9838e9e00d7f0901bf9662bb2b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-client/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-client-4.2.13+946bf4c36c-sources.jar"
+hash = "f161035658061e728314f9fe40360f283e6f4854d2eeec40e9ddbcb8d1fa0d55"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-client/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-client-4.2.13+946bf4c36c.jar"
+hash = "716d2003f9b2f98c4d69deefe185d69953cb1e5af431ca221d175e3de899ce67"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-client/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-client-4.2.13+946bf4c36c.pom"
+hash = "b51a36ae1d590ee89e00b1d327553a201feb85e8c6553932ced5ed632e507e8f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-common/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-common-4.2.13+946bf4c36c-sources.jar"
+hash = "fad49d48cdcdb172989ccd238bdcaa014a8e3740c29dcccf2a843653b5939296"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-common/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-common-4.2.13+946bf4c36c.jar"
+hash = "2087df550fc05db4de9f8809b47b055d46adba9816c9eae3de7fc54db96d5078"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-38fd57e8-common/4.2.13+946bf4c36c/fabric-item-group-api-v1-38fd57e8-common-4.2.13+946bf4c36c.pom"
+hash = "d9202eb773ab3027be16986757b8347c44fe1784de77d165d22979c7658259de"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-client/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3-sources.jar"
+hash = "3941a4455f785ff0b2f93de4472a4dfad826ae26e0815d18dde4956419afdabf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-client/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3.jar"
+hash = "58c102ee18566be6502b154ef3a5486e671a436481a9108b05a539a8b7542d22"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-client/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-client-4.2.13+946bf4c3f3.pom"
+hash = "8a885eca73470bce2f15cd497b9f32155836627f2be09bdb4fc10f511bb7a7ac"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-common/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3-sources.jar"
+hash = "b1e59df7dd705c8eb2472089c40b1ab906cd32341d001ac24d1d8faa159317d3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-common/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3.jar"
+hash = "577b63676c20231863aa4a15e114b1d0ca0e93e659b8456fb79e76c0d72e60af"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-item-group-api-v1-a5b452c0-common/4.2.13+946bf4c3f3/fabric-item-group-api-v1-a5b452c0-common-4.2.13+946bf4c3f3.pom"
+hash = "c0a22a63f376e03f3aa0e259e718d90fc9bf28b6906199d241ca4584de76e544"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-38fd57e8-client/1.0.65+946bf4c36c/fabric-key-binding-api-v1-38fd57e8-client-1.0.65+946bf4c36c-sources.jar"
+hash = "66ba0a72543ded4a822979bed32f8b45ba40b46d0ac6e556bb9e33932b57d2fc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-38fd57e8-client/1.0.65+946bf4c36c/fabric-key-binding-api-v1-38fd57e8-client-1.0.65+946bf4c36c.jar"
+hash = "7b010dd66c9532b20e35fa7f5f4e69c9732e0956561e21ca9d9ac980c970070f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-38fd57e8-client/1.0.65+946bf4c36c/fabric-key-binding-api-v1-38fd57e8-client-1.0.65+946bf4c36c.pom"
+hash = "e71e30ea773f6f7ec1b7d65b27f38e6bee186ad76cae2510f192f47e0db43e6e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-a5b452c0-client/1.0.65+946bf4c3f3/fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3-sources.jar"
+hash = "1738155d7ab201c47bc61b47b8105f0e89f687af7b3a758a8319796f993bb9ee"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-a5b452c0-client/1.0.65+946bf4c3f3/fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3.jar"
+hash = "a413c83ad50c3ee5471f0e13fef9b17e300c26d3ba0ac58a2dd77d5f6fe3aaea"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-key-binding-api-v1-a5b452c0-client/1.0.65+946bf4c3f3/fabric-key-binding-api-v1-a5b452c0-client-1.0.65+946bf4c3f3.pom"
+hash = "8533616601a792593f600bbfdd517982cd221dfacef24ce6fb33a7741d072f2c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-client/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-client-2.6.3+db4dfd856c-sources.jar"
+hash = "1ea12c80d2902be8e75ef24bb25cc618967a950bafbb2ace6ca1fef70270e9c6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-client/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-client-2.6.3+db4dfd856c.jar"
+hash = "97fb8eb8c0d8e9cbd13715d469476e1093681b200a43f647c85be5d7d50cf21b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-client/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-client-2.6.3+db4dfd856c.pom"
+hash = "71774e272f4f7d18e27223c7fd5248d2aad3c3760406898b8195e2b29217b95f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-common/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-common-2.6.3+db4dfd856c-sources.jar"
+hash = "9ff261928ce74b0e89d52cd30d77fa5af6f2d391b6f41e75e56f76dd8854e5e4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-common/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-common-2.6.3+db4dfd856c.jar"
+hash = "0d7f1bd18e1b5bf5243ba0da12f09d2c6df6d517a4d57def3c0c838774a51c15"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-38fd57e8-common/2.6.3+db4dfd856c/fabric-lifecycle-events-v1-38fd57e8-common-2.6.3+db4dfd856c.pom"
+hash = "f0a4842133855fba6add8a135ebe827b39f3e3fb52fc7e39cc92ccf5ab284b1c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-client/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3-sources.jar"
+hash = "67439a73487280b4607a028fafecab03a8df4c9272ba39f352f535b199678596"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-client/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3.jar"
+hash = "e6208036597d77c13f06aebb1ace3cafe6cda3395c589a53d3e73c01661066cd"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-client/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-client-2.6.3+db4dfd85f3.pom"
+hash = "5487fd3abee6ed520b80dc74bf58204ad3b6bd78c638a8363191656e8e9aa6d5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-common/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3-sources.jar"
+hash = "3d883c5965353e8ea7b3b4da5e8c927e1749b6a057a20a4b4381702f27c6070b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-common/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3.jar"
+hash = "dbe4bce61295ef3f3784053d06c533178f828850e2cc4224d8dab5f0c86c1c71"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-lifecycle-events-v1-a5b452c0-common/2.6.3+db4dfd85f3/fabric-lifecycle-events-v1-a5b452c0-common-2.6.3+db4dfd85f3.pom"
+hash = "6eac42f85ffb85403bca54cf05797f81500a438dda3aa46a6b2d32708ca55e6c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-38fd57e8-common/3.0.55+3f89f5a56c/fabric-loot-api-v2-38fd57e8-common-3.0.55+3f89f5a56c-sources.jar"
+hash = "cbafebfb4723d8baa7a520bcb3cc67d54875c79590d3de4b0ae205df8ad21c16"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-38fd57e8-common/3.0.55+3f89f5a56c/fabric-loot-api-v2-38fd57e8-common-3.0.55+3f89f5a56c.jar"
+hash = "76ccd44aade286dd2c89886608b4345cc87de0ef57d0945bf4a9215a08c4184d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-38fd57e8-common/3.0.55+3f89f5a56c/fabric-loot-api-v2-38fd57e8-common-3.0.55+3f89f5a56c.pom"
+hash = "84f12c3cb37c9baa043aa208814bd43637d7ac7814708e64b66649fee5963241"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-a5b452c0-common/3.0.55+3f89f5a5f3/fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3-sources.jar"
+hash = "f930cf1d3f7a712563155b2e15b537320426ae29a197d03a086a986222d6d28e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-a5b452c0-common/3.0.55+3f89f5a5f3/fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3.jar"
+hash = "4cc436b547d0eec42c68a111e2852a1fcb4f3b826cd89b08972ee773c0e419bc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v2-a5b452c0-common/3.0.55+3f89f5a5f3/fabric-loot-api-v2-a5b452c0-common-3.0.55+3f89f5a5f3.pom"
+hash = "c26c465349728d14c8b706f48eab09e1cce75597c91c291af9b376645b511164"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-38fd57e8-common/2.0.2+946bf4c36c/fabric-loot-api-v3-38fd57e8-common-2.0.2+946bf4c36c-sources.jar"
+hash = "4d291961ae2f5fc62ce7b32b1a61696b58927c5e268dfe24d8b43d384bd82f6d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-38fd57e8-common/2.0.2+946bf4c36c/fabric-loot-api-v3-38fd57e8-common-2.0.2+946bf4c36c.jar"
+hash = "c7918e3b4bc665e3d090374ff19c19daa05df526a6bf342d7829c70af8356563"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-38fd57e8-common/2.0.2+946bf4c36c/fabric-loot-api-v3-38fd57e8-common-2.0.2+946bf4c36c.pom"
+hash = "5137e7c7164e1ae1ee4cbaa964be3501f327195823fdcf23911355260eedae69"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-a5b452c0-common/2.0.2+946bf4c3f3/fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3-sources.jar"
+hash = "9acd6ff2299425d665c60d98d79f0454285a57a63c0edf35011a6d2fbe75ffce"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-a5b452c0-common/2.0.2+946bf4c3f3/fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3.jar"
+hash = "2a590ebcc8bf6f820deb0a9571dbac083d7f06dec8ef20bb319cd9814f668d98"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-loot-api-v3-a5b452c0-common/2.0.2+946bf4c3f3/fabric-loot-api-v3-a5b452c0-common-2.0.2+946bf4c3f3.pom"
+hash = "3d42cc550a9fdc04a6ab26dde27c78350c73c08eab948c3982e65bf3f972cb4c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-client/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-client-6.1.1+946bf4c36c-sources.jar"
+hash = "3e894f77d8171e7595f98c73c6150be7a70a01793544174d4a405606eecbebaf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-client/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-client-6.1.1+946bf4c36c.jar"
+hash = "cfe0e2bd085b92ce72850411c5a3d09399d51ee6c94068c3421fe97108c5da8a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-client/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-client-6.1.1+946bf4c36c.pom"
+hash = "0e97852c52a4ec56fdfd7786bef3512b8693814afb2a593ce0c4cc49b51dc3dc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-common/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-common-6.1.1+946bf4c36c-sources.jar"
+hash = "5d9315790784f0dba533f7f6306df6aff970840e123809dfe1b63b935c973b33"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-common/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-common-6.1.1+946bf4c36c.jar"
+hash = "a2ead0127ca43f7faa94b8caeb198fb5531f0135bad9d600b022b68091c7d64f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-38fd57e8-common/6.1.1+946bf4c36c/fabric-message-api-v1-38fd57e8-common-6.1.1+946bf4c36c.pom"
+hash = "1e8a722b43b940f1aa2f314ac5709edd3742c4232fc8b88e233d259c128b414a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-client/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3-sources.jar"
+hash = "3f16cb3e6e54a72400e912ba1c0c33676b9d67e316393529b262156d7fb793e7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-client/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3.jar"
+hash = "b6bdd77e3f52f8f428a50452ccb5327440bfef009319f421f23d6370802654fb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-client/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-client-6.1.1+946bf4c3f3.pom"
+hash = "2f1dc1de6b167abc733500c34521878feaccd41da09dae72a322e58fdd9d3820"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-common/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3-sources.jar"
+hash = "a1d213316329bf4e5133fd3c2bd88518801de43ce4d0a238ba8d5bee7725e6e9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-common/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3.jar"
+hash = "816e074e85efb82484b3a4030a74239ee683c46bb6c7599fcd9fbea0e9c4a3bf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-message-api-v1-a5b452c0-common/6.1.1+946bf4c3f3/fabric-message-api-v1-a5b452c0-common-6.1.1+946bf4c3f3.pom"
+hash = "65328b82390ca38aa001411f83f92d6412477c3ba4250e7eee764056f16e5b9b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-38fd57e8-client/5.2.5+946bf4c36c/fabric-model-loading-api-v1-38fd57e8-client-5.2.5+946bf4c36c-sources.jar"
+hash = "5b4f51d33f532daf97096729f703129802486df7c871e7a8ff26d05542747ee8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-38fd57e8-client/5.2.5+946bf4c36c/fabric-model-loading-api-v1-38fd57e8-client-5.2.5+946bf4c36c.jar"
+hash = "a97887e55973e0cbd12fde005d526f5b0fc154bc2bb67ee05a268e5a0f077263"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-38fd57e8-client/5.2.5+946bf4c36c/fabric-model-loading-api-v1-38fd57e8-client-5.2.5+946bf4c36c.pom"
+hash = "ad4d470634168a2e5bc5c96e5ec964a4029d927fbe2ebcbca2073eab8d13eb85"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-a5b452c0-client/5.2.5+946bf4c3f3/fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3-sources.jar"
+hash = "2e2f5f81433e9a3be2abaa9ca4db9c0955b48fccaffe7691acd4a2d70a89f028"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-a5b452c0-client/5.2.5+946bf4c3f3/fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3.jar"
+hash = "b14cefd594f68c66435d4294286fee44686b10f836ad24ac88c4f7299c79c039"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-model-loading-api-v1-a5b452c0-client/5.2.5+946bf4c3f3/fabric-model-loading-api-v1-a5b452c0-client-5.2.5+946bf4c3f3.pom"
+hash = "7cd51968a465e16c4d361572b4ba11103ceaccbef9b1112b39144867755af3f7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-client/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-client-5.0.1+946bf4c36c-sources.jar"
+hash = "3561663e0d59a4ccfeb65cd2738edf8ffc510559e1a80a68b13da7d750009ed1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-client/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-client-5.0.1+946bf4c36c.jar"
+hash = "17b1fc711d36cbfbc2c86c9e110b518f7a15835bdcb44de84145a22d95d55ce3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-client/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-client-5.0.1+946bf4c36c.pom"
+hash = "d577c9eac43adb830d7cb7d860cb459005c5ae495d3f335303646f12c3dd2cf0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-common/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-common-5.0.1+946bf4c36c-sources.jar"
+hash = "1e28e392bf5a4014bfe9590dfcc0f08e3deeeb290f7f3c48c1d3b2cb9e8f7d7c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-common/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-common-5.0.1+946bf4c36c.jar"
+hash = "89f9305fb8aae366e8a01e2979fae02c6695bf8cbda210c12b233f52b0068437"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-38fd57e8-common/5.0.1+946bf4c36c/fabric-networking-api-v1-38fd57e8-common-5.0.1+946bf4c36c.pom"
+hash = "eba4f6002f4327063979528602a9511652e98b6598361c2f8e6ca56f3889c54e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-client/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3-sources.jar"
+hash = "00ec24d89e29e104f91d4ccd4472295d7717ffa22141b9e76ff0650d2c5136e9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-client/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3.jar"
+hash = "cf752663ce16c66709b207c89e7d8a392688d9571f2e7e4b016c460d3558d261"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-client/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-client-5.0.1+946bf4c3f3.pom"
+hash = "e3f0bb5de9bee40984e2cc09c48cc9c6b7d64b267ce7a5565fd561f9f51f610a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-common/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3-sources.jar"
+hash = "90d6b10d106be9f4b05d36e33e2025388b5a3cd969449e48ba6eb5efb29f45b7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-common/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3.jar"
+hash = "0c332b475a79d6b0d17fd94ad02f2a7e575e0087c138a32d681c95aa35552f19"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-networking-api-v1-a5b452c0-common/5.0.1+946bf4c3f3/fabric-networking-api-v1-a5b452c0-common-5.0.1+946bf4c3f3.pom"
+hash = "f3da62935801382fe4962b2d978b11bb69912ddd395d694e2fd54942a52643ef"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-client/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-client-21.1.7+946bf4c36c-sources.jar"
+hash = "4bb7fc96d4ae982dad9bfebfb69f08e015118a6b6ae26facc799d26d58afbca4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-client/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-client-21.1.7+946bf4c36c.jar"
+hash = "cd36c005314550dcc8c2a0c57ad61fe87f1c1afcac04f59bcaeee6c1f2381215"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-client/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-client-21.1.7+946bf4c36c.pom"
+hash = "6ecc058ffb69b9bb05dc0759b31c49e160712e2f3f09927824a3d1d2d6e1c35d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-common/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-common-21.1.7+946bf4c36c-sources.jar"
+hash = "056560069a8dd74599aa9b96b5e2eff377daf31ab35bcdf34862cb95d8043492"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-common/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-common-21.1.7+946bf4c36c.jar"
+hash = "5cb370bb01cad695c97e0ddd684bb6fdc0fe48d5e08ef59e835a1e8c2eff7f97"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-38fd57e8-common/21.1.7+946bf4c36c/fabric-object-builder-api-v1-38fd57e8-common-21.1.7+946bf4c36c.pom"
+hash = "b539048a988dba6c2b98dee9611277487c0ca0ec54e804de7a4ea7de974f19b2"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-client/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3-sources.jar"
+hash = "6fc43f758bd7b84ed75ade649a1089bdceb13216a0d7729e2956b5408c8e0184"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-client/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3.jar"
+hash = "80677f23a3171154f9e2c74ba066d4503367b924923e80359f73de4cfaeaf482"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-client/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-client-21.1.7+946bf4c3f3.pom"
+hash = "6c7d787a97a6aab19a9483fc956cfb6759aab0f00531a40154396d1befede8e9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-common/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3-sources.jar"
+hash = "ebf8ad796e578a374161905f6c735daa26241f527071d05c4522d9b39bd8466f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-common/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3.jar"
+hash = "fda8825ca17ba26d010744621f508eb606636d6fbae9d7835f2d63276c539117"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-object-builder-api-v1-a5b452c0-common/21.1.7+946bf4c3f3/fabric-object-builder-api-v1-a5b452c0-common-21.1.7+946bf4c3f3.pom"
+hash = "03c80266ecfc06c5e2a352ed18b84a12841c5fed9386787ab90fb6edd052e067"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-client/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-client-4.1.7+946bf4c36c-sources.jar"
+hash = "ef6bcfd9c82e76c5addfb99d01264fdfcd8c1898115b537cb10d67316901a953"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-client/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-client-4.1.7+946bf4c36c.jar"
+hash = "83442f17f78bb029f625b6be4e260f52de1c8f32e0794bf4d0ed4b7ddb7aa337"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-client/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-client-4.1.7+946bf4c36c.pom"
+hash = "8ccbc7dfb4f67b29b8b0aff215ffe638e890fcd8eb6d34b19be94f7d49439eb0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-common/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-common-4.1.7+946bf4c36c-sources.jar"
+hash = "9346738225c4cdf3e2031c7d521d20a11b0bc7ef35b4b8f286db1a57a8088d48"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-common/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-common-4.1.7+946bf4c36c.jar"
+hash = "012b335c55424986d053bbc01ab1fad2b754d57f648bfbf181d62a0bbc1d3780"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-38fd57e8-common/4.1.7+946bf4c36c/fabric-particles-v1-38fd57e8-common-4.1.7+946bf4c36c.pom"
+hash = "1087d47fd2db5e9e2be1111211d3e30b5f1f98ae16284c7b6dfb53c7ce32d1eb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-client/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3-sources.jar"
+hash = "6070ad748240f73d8d180459ef0ee517b15cb9908041a44dbaa5e3df617bb104"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-client/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3.jar"
+hash = "7f1a63ad0ef1594a2a04a899daa055cfd2b291057f4fabc0585e9c5cb3e0b279"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-client/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-client-4.1.7+946bf4c3f3.pom"
+hash = "5069e560373f0b283d46ae5861ba003533e75642a715d58782046603de7ed950"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-common/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3-sources.jar"
+hash = "5fc4ca42114f56b34ce979945efa3d72aceb316d1f0b175d9d6855d28b2f32d6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-common/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3.jar"
+hash = "dbc36b3ef9a56073a543a5f8fa28ad850915e505321f5a8bc29090abdce88c52"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-particles-v1-a5b452c0-common/4.1.7+946bf4c3f3/fabric-particles-v1-a5b452c0-common-4.1.7+946bf4c3f3.pom"
+hash = "6c06f6d8f98e0a3dfba5aa9b61f1bed8f32be3b3df97486dba8e6a6ec16c0f6e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-client/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-client-8.1.14+946bf4c36c-sources.jar"
+hash = "733cff268b50b824f88890c28caa95831882545d76849fe080facd647bf26d81"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-client/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-client-8.1.14+946bf4c36c.jar"
+hash = "32799b851d3710380f442ca80e6576c43304a0c794391bc0a128614ecb6f8f93"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-client/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-client-8.1.14+946bf4c36c.pom"
+hash = "c2f5ba19faeb1e598f48c63cd5104152c3b830ab7e8e9187fd9de15ac8f2060f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-common/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-common-8.1.14+946bf4c36c-sources.jar"
+hash = "8adf15b5b45903d7550090e12742a04f241f87a22dbe6d79b3aafebaf2d4a6b8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-common/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-common-8.1.14+946bf4c36c.jar"
+hash = "dd3e7d2268ffd6d42c2a086e90592503338ebb9e956435dcca1efc060d3067ec"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-38fd57e8-common/8.1.14+946bf4c36c/fabric-recipe-api-v1-38fd57e8-common-8.1.14+946bf4c36c.pom"
+hash = "67961e92019b6a85ccf36fe159306f712660480bac85e1359df349f44b7c3088"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-client/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3-sources.jar"
+hash = "134b61dcf5293e645a849bb337f6f30d1d1cd23948ab3e8c5207aba06c65bf42"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-client/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3.jar"
+hash = "5503215398f7a4d73b309fe1adc83e00e2d5f835d71c0b4b37c4f8ba3301b97d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-client/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-client-8.1.14+946bf4c3f3.pom"
+hash = "d05e31a720c59142e28e637c7855ce88a281022ad23b0f190d3b1ce1aefe2c82"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-common/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3-sources.jar"
+hash = "8f7eba573b8f9ad58d7c0ea27b2ab989230572e06e21c5a4290e876163b5b410"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-common/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3.jar"
+hash = "386fd9390ad346b107394b4677eaf472a3cc0556e8e1dcf4c77dd21d0cab5870"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-recipe-api-v1-a5b452c0-common/8.1.14+946bf4c3f3/fabric-recipe-api-v1-a5b452c0-common-8.1.14+946bf4c3f3.pom"
+hash = "67c5acedfa6faab830527d18255a22285f46feeec81dc233f6e19ebec4d5ec9f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-client/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-client-6.1.27+946bf4c36c-sources.jar"
+hash = "e2b2c274cbdcdb5b66b8349e075b215d5715be174229351ae8538f5dcd316352"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-client/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-client-6.1.27+946bf4c36c.jar"
+hash = "b4dc8ede30325764a3013e9aaaab6ee337b373d1f80ff7c6652cd86f005b7073"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-client/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-client-6.1.27+946bf4c36c.pom"
+hash = "3dae72b811bb95131d034f687b0f6d753844058ee607d408b515b49beae342e1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-common/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-common-6.1.27+946bf4c36c-sources.jar"
+hash = "0390dfb9a02cc68f273e87530f8e719fca8c352ad80839df85fb7f4d7ec99ad4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-common/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-common-6.1.27+946bf4c36c.jar"
+hash = "dc664fd25918dd21ce41f7da5b2dd6a5c9c0ff530d565655649c06ec4e266c15"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-38fd57e8-common/6.1.27+946bf4c36c/fabric-registry-sync-v0-38fd57e8-common-6.1.27+946bf4c36c.pom"
+hash = "3458be114e91413fae6ca5eea91d03cda5d5af702c148f84cf29bc6a1036c169"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-client/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3-sources.jar"
+hash = "46a404dae272758576ad270f9b98eafd38fc72a24a51b5a426bcba2547bb9fa1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-client/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3.jar"
+hash = "ede1d3435b898429cc86e375bdd094bae1af281e7d3238cb9ae877bc27c82a74"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-client/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-client-6.1.27+946bf4c3f3.pom"
+hash = "0d6de0326595648293e11fbf963c2b6f7047d3758712ebb361c9e7ed6e49229f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-common/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3-sources.jar"
+hash = "5df8b4378e07a67e6e8621a5a5baa8ddd2649489d78208a7287a4da55b5bb6bc"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-common/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3.jar"
+hash = "279d677d0cff0e965dd6fbf940fd408f4f4d5ca46b35e134c1b28f5507971d80"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-registry-sync-v0-a5b452c0-common/6.1.27+946bf4c3f3/fabric-registry-sync-v0-a5b452c0-common-6.1.27+946bf4c3f3.pom"
+hash = "fd3d7c7d66814a548829e7d75c4d016947c96692ae5cd6d424e00ad38912e691"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-38fd57e8-client/7.0.2+946bf4c36c/fabric-renderer-api-v1-38fd57e8-client-7.0.2+946bf4c36c-sources.jar"
+hash = "7f8e0e734305644e54cbd84d3fa6ad8d6ff1856bd6c317e56646d61dad7ab3a7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-38fd57e8-client/7.0.2+946bf4c36c/fabric-renderer-api-v1-38fd57e8-client-7.0.2+946bf4c36c.jar"
+hash = "9874d395946e8aa02591239345b754c70bc3120a947504ac3ce347b9f7369535"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-38fd57e8-client/7.0.2+946bf4c36c/fabric-renderer-api-v1-38fd57e8-client-7.0.2+946bf4c36c.pom"
+hash = "7bac4f25f5d1440072984111538d458f74406bba7a22390c4d89fa3fa93a5b54"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-a5b452c0-client/7.0.2+946bf4c3f3/fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3-sources.jar"
+hash = "db651661bbc83a0e37dd4de94c4c40208b28394cb41b396bb8cc9b6ecb7d864f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-a5b452c0-client/7.0.2+946bf4c3f3/fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3.jar"
+hash = "2b269ba234de16cad9d9e9543745aeb3639643b21f03853d2302253a486faabb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-api-v1-a5b452c0-client/7.0.2+946bf4c3f3/fabric-renderer-api-v1-a5b452c0-client-7.0.2+946bf4c3f3.pom"
+hash = "aba6bef6ba555a1b1fe21b22c28165e12619adea1c9a16951395c398eb8f5271"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-38fd57e8-client/4.0.2+946bf4c36c/fabric-renderer-indigo-38fd57e8-client-4.0.2+946bf4c36c-sources.jar"
+hash = "eab475eca2647d3da3071c84e0da4543ee519c19f94d4808ae374890684364d0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-38fd57e8-client/4.0.2+946bf4c36c/fabric-renderer-indigo-38fd57e8-client-4.0.2+946bf4c36c.jar"
+hash = "fe04c1b61b456dae281c12720439c6b23e166e1427fcdb1dca1d29b3d9b93e9d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-38fd57e8-client/4.0.2+946bf4c36c/fabric-renderer-indigo-38fd57e8-client-4.0.2+946bf4c36c.pom"
+hash = "4a0c74cd48879665196aa5bf156e8027600bd3762e287f3ae8d79042414d66a4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-a5b452c0-client/4.0.2+946bf4c3f3/fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3-sources.jar"
+hash = "23c7626661b8ccd61c0f8a86dad8b776c7cde60b3577a7b945b73d4b39bc27be"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-a5b452c0-client/4.0.2+946bf4c3f3/fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3.jar"
+hash = "36bd523e542dfe778cbaca3379799af54b37756a7d27bfccb266efa435e5f166"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-renderer-indigo-a5b452c0-client/4.0.2+946bf4c3f3/fabric-renderer-indigo-a5b452c0-client-4.0.2+946bf4c3f3.pom"
+hash = "be3be2568dc223b3c763142d248556c24609ad47cb59ec007b8b76f95637e680"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-client/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-client-3.1.30+fa6cb72b6c-sources.jar"
+hash = "ffd546a657cfe44a47d055f94e583854d427fb44f6a423de12047fccb918ff54"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-client/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-client-3.1.30+fa6cb72b6c.jar"
+hash = "b914290dad9999604b89f8a27f539f620420dfc12b64b44fc0e33e782f4477f9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-client/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-client-3.1.30+fa6cb72b6c.pom"
+hash = "d88e484274e8cd2bf1d78538b134151b8703d36eb9e21a58612314d2ddfcc208"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-common/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-common-3.1.30+fa6cb72b6c-sources.jar"
+hash = "015d7e8ad28f7363331a17b08157a88675e20c790207a5b7555278da89828891"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-common/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-common-3.1.30+fa6cb72b6c.jar"
+hash = "c69d6a83ebb882df5ef1516db666202c87c9e1d54133dfc05606d48514f9ad44"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-38fd57e8-common/3.1.30+fa6cb72b6c/fabric-rendering-fluids-v1-38fd57e8-common-3.1.30+fa6cb72b6c.pom"
+hash = "3defac9d7d91d23525d33b96bfa096089a38446cc8ea3f7dd909222607b95aa1"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-client/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3-sources.jar"
+hash = "10aaace3b9e99f8cffb94dc9c26eb647566f473aeeb0f8ccb13bce07c9ce3892"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-client/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3.jar"
+hash = "3d8b877549d47b3ac9c863937bb20803c5915f61d01af0bf1ac79ab8aa118a2b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-client/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-client-3.1.30+fa6cb72bf3.pom"
+hash = "30efbda611417f4961c83d697876c0acb1f4b6bea3127e058bf36c9015d24a5c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-common/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3-sources.jar"
+hash = "a684af5246694fb9e6c159757a2b906d86e5cd6d8289e6983aa31e45a7315ca5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-common/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3.jar"
+hash = "c8cb789e97f246991a9e414d790e896353f4a062aed4b21ea824c977f90fea6a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-fluids-v1-a5b452c0-common/3.1.30+fa6cb72bf3/fabric-rendering-fluids-v1-a5b452c0-common-3.1.30+fa6cb72bf3.pom"
+hash = "aacb26a65435768e36f2996427cd3e578911ab42d26e9241b9c83c0483a91f30"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-38fd57e8-client/12.4.0+e8d43c766c/fabric-rendering-v1-38fd57e8-client-12.4.0+e8d43c766c-sources.jar"
+hash = "145a4ba8a8e8d061c5e0eb4a65f365eddb22800b549944aa5ab1d2397e2dabeb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-38fd57e8-client/12.4.0+e8d43c766c/fabric-rendering-v1-38fd57e8-client-12.4.0+e8d43c766c.jar"
+hash = "1b0d2f7fc5a7d75be65ca39b9fdf40a65b2769c297ed03243a76ae990609d02d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-38fd57e8-client/12.4.0+e8d43c766c/fabric-rendering-v1-38fd57e8-client-12.4.0+e8d43c766c.pom"
+hash = "5f4ca5643672ad2772ea4152d3bfcd710d7b300b955c2d43d53ab506d20825d0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-a5b452c0-client/12.4.0+e8d43c76f3/fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3-sources.jar"
+hash = "3f0487f0de6020ae0828d0bb17c1d6ce78140badd576a869695120e2eaacde5e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-a5b452c0-client/12.4.0+e8d43c76f3/fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3.jar"
+hash = "a006407b075d05be9fdb37886bad7e541a51a801db2e9b20d20040cf3331a8d3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-rendering-v1-a5b452c0-client/12.4.0+e8d43c76f3/fabric-rendering-v1-a5b452c0-client-12.4.0+e8d43c76f3.pom"
+hash = "087d9d87fbd3dba8bcc1f005ab910971bce216f4998b2b09b8296efaa6884e31"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-38fd57e8-common/5.0.24+946bf4c36c/fabric-resource-conditions-api-v1-38fd57e8-common-5.0.24+946bf4c36c-sources.jar"
+hash = "d65de22e35355d063c8ef6e293c0cf43a8ba3cc7965fcd966d2b5ff518907f7b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-38fd57e8-common/5.0.24+946bf4c36c/fabric-resource-conditions-api-v1-38fd57e8-common-5.0.24+946bf4c36c.jar"
+hash = "db553c7909b4d048625c35cb7fa1af4d9acd574cc96ebe27df52b900a394a9b8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-38fd57e8-common/5.0.24+946bf4c36c/fabric-resource-conditions-api-v1-38fd57e8-common-5.0.24+946bf4c36c.pom"
+hash = "a054457b18a1241317c6530d35ea47f8bebe2c4ff0657e997914da6ee7487d1d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-a5b452c0-common/5.0.24+946bf4c3f3/fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3-sources.jar"
+hash = "5322aec7907d41452bcd5313cf2c57db4a7b80fd632f8257d959625f902a3192"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-a5b452c0-common/5.0.24+946bf4c3f3/fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3.jar"
+hash = "72c50bd719085491cf4e3ed3405bd718563ded6696cdefd5611bd9e99144f79d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-conditions-api-v1-a5b452c0-common/5.0.24+946bf4c3f3/fabric-resource-conditions-api-v1-a5b452c0-common-5.0.24+946bf4c3f3.pom"
+hash = "33b712f80081d7403400d9ef2101609501ba5af4648de0b2c2776c015f6d0484"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-client/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-client-3.1.11+946bf4c36c-sources.jar"
+hash = "3d4ecfed157bca3d74759ec66e20ee25043f4015057596d1893afbdffe26ad71"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-client/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-client-3.1.11+946bf4c36c.jar"
+hash = "8c27a7f0b2e55370024c9a197d4ff1232895055bfdef1d83edb0032d789401c7"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-client/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-client-3.1.11+946bf4c36c.pom"
+hash = "543be7adccb7d019c64fd3c392b04ff6bd0bde29b49bb0217fd12dc15654fb1a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-common/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-common-3.1.11+946bf4c36c-sources.jar"
+hash = "4ff3ebd0e62fa66790c1947b0188a197c2cfbeb88edeba1d5840a71b64b3c52f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-common/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-common-3.1.11+946bf4c36c.jar"
+hash = "3c22ed246fc2804aea8745c65d2c35177161a65f5fcda41722b2728f8db2d0db"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-38fd57e8-common/3.1.11+946bf4c36c/fabric-resource-loader-v0-38fd57e8-common-3.1.11+946bf4c36c.pom"
+hash = "db11655d6e8062cccffaa52b83323260a2f82ec1942b73ef0818a9730776ab40"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-client/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3-sources.jar"
+hash = "10bd15a21e12fa25c94f73f2317dca07f945e6cfff7fe8a28e44d9c9d0602784"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-client/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3.jar"
+hash = "d6eef4b00010b0bf1e984f77b75d234af7afa8dffadf2491c849904704a9821d"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-client/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-client-3.1.11+946bf4c3f3.pom"
+hash = "705ec22811d0f70ddbc9b5d680adad648138fa569616af1df67fdc35c4d7d04a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-common/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3-sources.jar"
+hash = "f688fc78dca180387a2b1814336400c5bd590b0ca12aaae2b3e51162fc8b2888"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-common/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3.jar"
+hash = "9dc31b326bc43e123ec1564f9a448b718c0824ec13bbaca1ab6f0eb82ee22cf5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-resource-loader-v0-a5b452c0-common/3.1.11+946bf4c3f3/fabric-resource-loader-v0-a5b452c0-common-3.1.11+946bf4c3f3.pom"
+hash = "72018a93d9b5cd50029f90dad07e5d1bc7c82e6ec53d485acb2dffd5e37e94be"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-38fd57e8-client/2.1.0+277ecf7d6c/fabric-screen-api-v1-38fd57e8-client-2.1.0+277ecf7d6c-sources.jar"
+hash = "707d8dd1ddcf8a923b1efed3614d9a75c5ba61c78decd4a6ff5362368a9f8cc6"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-38fd57e8-client/2.1.0+277ecf7d6c/fabric-screen-api-v1-38fd57e8-client-2.1.0+277ecf7d6c.jar"
+hash = "966979ad10defa4f44df620a93404f0690ef309d7a29f020ee9370ecf1e99129"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-38fd57e8-client/2.1.0+277ecf7d6c/fabric-screen-api-v1-38fd57e8-client-2.1.0+277ecf7d6c.pom"
+hash = "e368a71665b8fdb010d8b92496d257dcbc9abfdfb42853c9f93130614f227a94"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-a5b452c0-client/2.1.0+277ecf7df3/fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3-sources.jar"
+hash = "147377904f314f6861c142ad734dfe6b5f16f8318589cb6344f17369befb9993"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-a5b452c0-client/2.1.0+277ecf7df3/fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3.jar"
+hash = "81385821ec7d53494acd084524fe878fbba80079060a0dd7479fb581fb48561a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-api-v1-a5b452c0-client/2.1.0+277ecf7df3/fabric-screen-api-v1-a5b452c0-client-2.1.0+277ecf7df3.pom"
+hash = "ad07af033697848948a5d3bb9b44acaab02f1bd69e118a1ba1f71a24f4815aa9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-client/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-client-1.3.136+946bf4c36c-sources.jar"
+hash = "536baf3f3456409220afd11ee361d345e084aa03f2660c0c64e0e43bb40fce66"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-client/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-client-1.3.136+946bf4c36c.jar"
+hash = "ab56d01bd881107a33e0af33c69bb3a47f4f9139397c460d49358a9e0873f443"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-client/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-client-1.3.136+946bf4c36c.pom"
+hash = "39a82a04850177bf94b69226b994c2943bf7f422c002ece262d46fb35d846c81"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-common/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-common-1.3.136+946bf4c36c-sources.jar"
+hash = "5d46497db432620617ba5cb1544959d7ba40f8fb132c0d08112eeec6a0e3fdb3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-common/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-common-1.3.136+946bf4c36c.jar"
+hash = "70c14cfd10d574a51229d06f50261b0304f0d990e6e6bacd6a5becfa390af55e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-38fd57e8-common/1.3.136+946bf4c36c/fabric-screen-handler-api-v1-38fd57e8-common-1.3.136+946bf4c36c.pom"
+hash = "5e9bdba7272d43b784aab67cc1e865646b2d7e695f58f6e2e9f89b884e388995"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-client/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3-sources.jar"
+hash = "e75d967e1f8066dc81310c61ae73b9863c86aef060a474b4167c895dc78e97c5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-client/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3.jar"
+hash = "1fb8ad3cc07eb74ca3d2cd399b37b8ded3866c08e81bf8f71977154b2d8d420b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-client/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-client-1.3.136+946bf4c3f3.pom"
+hash = "40af98dcca16b882ff0f8185aad4d680fdfc8903eca01729f92eecb14c99e593"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-common/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3-sources.jar"
+hash = "f5cf763f06959cf29c26195a6d1d6cc7120c2bab3c44d753550bd5b0a5c669d8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-common/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3.jar"
+hash = "a32bfb24f6a0d4f6e6c88eae025b61e8f31e1dc19253698ff5437681ef1fd169"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-screen-handler-api-v1-a5b452c0-common/1.3.136+946bf4c3f3/fabric-screen-handler-api-v1-a5b452c0-common-1.3.136+946bf4c3f3.pom"
+hash = "2e8b302d55267354250ab11762cd2a753b1346a847b30fff934dbb7493e48101"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-38fd57e8-client/1.0.42+946bf4c36c/fabric-sound-api-v1-38fd57e8-client-1.0.42+946bf4c36c-sources.jar"
+hash = "1006c1f430142e46bd95ebc551f3a4b444216ca721e67ec7e75f5c61ebcbd5d3"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-38fd57e8-client/1.0.42+946bf4c36c/fabric-sound-api-v1-38fd57e8-client-1.0.42+946bf4c36c.jar"
+hash = "89e134b0cb5e6244a8fd2ececdac5890c3270e2f3544a625c49c5aa0e944820e"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-38fd57e8-client/1.0.42+946bf4c36c/fabric-sound-api-v1-38fd57e8-client-1.0.42+946bf4c36c.pom"
+hash = "df6122b65b2b6f4994e91f31305deb30830fe84473d2a05657a29e534b9bba44"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-a5b452c0-client/1.0.42+946bf4c3f3/fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3-sources.jar"
+hash = "12d473df0b9b9b9556db9031e0e261a3d13d22e2dde4bf259f1411ca32b1c13f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-a5b452c0-client/1.0.42+946bf4c3f3/fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3.jar"
+hash = "e2eb273af464e73cf025ab1ff20ac9d833fb2f5cc7fcd45313bc11c1f3a066cb"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-sound-api-v1-a5b452c0-client/1.0.42+946bf4c3f3/fabric-sound-api-v1-a5b452c0-client-1.0.42+946bf4c3f3.pom"
+hash = "fbac7e9bd2a38598f02717001a91a823f791e9aa96fa94a127db567c053b4844"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-client/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-client-1.2.1+946bf4c36c-sources.jar"
+hash = "2c1a36c9eb7271008a6639353a79ba388e262d1ff912bc7e36b24d4f2d26428c"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-client/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-client-1.2.1+946bf4c36c.jar"
+hash = "d0169efec68596911a2291458c477a4b137dbead251743bc0de1501009620099"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-client/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-client-1.2.1+946bf4c36c.pom"
+hash = "4b52574d513bd1701c800f94449ad4bc9f1baeab378cb2ca480d7983eb47b011"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-common/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-common-1.2.1+946bf4c36c-sources.jar"
+hash = "72b409aaba72de80e667a73d851592a860056ea24ecfd51b7b22024ea0909197"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-common/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-common-1.2.1+946bf4c36c.jar"
+hash = "4d6c0498cab7927f66805515f3eee68e3b98689d7ccbf15ed8b8812f63173542"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-38fd57e8-common/1.2.1+946bf4c36c/fabric-tag-api-v1-38fd57e8-common-1.2.1+946bf4c36c.pom"
+hash = "94535ccf80388db89775a96b825a052c234d516b9cbbccd444cd5b5a09da7ab5"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-client/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3-sources.jar"
+hash = "8bc7683395ccb8dd164e7a0980fb01efa2ad8fcd3d7923d292f46e8e8e5745f0"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-client/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3.jar"
+hash = "356b142d30ac6c8e41dbbfd6d1629b88243b88f69a4d606765fc04d3f5225412"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-client/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-client-1.2.1+946bf4c3f3.pom"
+hash = "33402d00d629963c7522329ae079d505a6afcf3bd9cd81b119b05e7e0e2fdc14"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-common/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3-sources.jar"
+hash = "22709b7e8488809706ffe6a8018f12b1f14b463d6d506818273d88615d96efb9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-common/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3.jar"
+hash = "3e8d85d294270e4af29cc89451684279d56432aff3be29983b211657a5662a9f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-tag-api-v1-a5b452c0-common/1.2.1+946bf4c3f3/fabric-tag-api-v1-a5b452c0-common-1.2.1+946bf4c3f3.pom"
+hash = "75112b8a9addacce75735bd0942754fd560b5c37645a60c7ae9b498ac61a8895"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-client/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-client-6.0.5+946bf4c36c-sources.jar"
+hash = "f862800163a5510be5b410f70347a4991e8494c2ec6c10e449a19d8e9d3d8cc4"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-client/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-client-6.0.5+946bf4c36c.jar"
+hash = "0349f344ef00c97ddfaeacc5c9f4622c86433f52974f7e9555b640f8325a2895"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-client/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-client-6.0.5+946bf4c36c.pom"
+hash = "5035f1d471a1cde585b3829aeb9deb9d7c1aee08c232f85f104f96bfa38565de"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-common/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-common-6.0.5+946bf4c36c-sources.jar"
+hash = "c7fcd1e7eda76a4a6491c3453bef27960dd464f37eff1bb077d49c7c8306a4bf"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-common/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-common-6.0.5+946bf4c36c.jar"
+hash = "ad13c741be43fa7da36008332163d1587102968081170fc59f4f8d8d8a5b1d8b"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-38fd57e8-common/6.0.5+946bf4c36c/fabric-transfer-api-v1-38fd57e8-common-6.0.5+946bf4c36c.pom"
+hash = "38a409d0777e7487d644d3a9a35261af15f8780c1cfadc95cb5ff9d557c3df39"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-client/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3-sources.jar"
+hash = "bb96b846b0733f7b77de91f0ae2f342bb7eaabf8656daff6f5893ddcee4e300a"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-client/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3.jar"
+hash = "1268bc4d52d73a87fe77ef80611e74137a24b3b3ffce9748a308d88a5dbd60f9"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-client/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-client-6.0.5+946bf4c3f3.pom"
+hash = "2bbaa333181bd1ac688f3d7f3ab2b0576b1d5c9fefc5d172c0ed3e8da2c2c8a8"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-common/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3-sources.jar"
+hash = "e695c57dfa126ba8ed60014a09d5530be10e4cc838993cb540f508a723cc8a1f"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-common/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3.jar"
+hash = "0af6d7c307054083ef6b760916ab25bfed468e3f6835d5142fc2701b41fce194"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transfer-api-v1-a5b452c0-common/6.0.5+946bf4c3f3/fabric-transfer-api-v1-a5b452c0-common-6.0.5+946bf4c3f3.pom"
+hash = "c441969d359cd41afbfaf024f5a726e94dde819ac7506374e1fc483ad6da9406"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-38fd57e8-common/6.4.1+ac3e15d16c/fabric-transitive-access-wideners-v1-38fd57e8-common-6.4.1+ac3e15d16c-sources.jar"
+hash = "3a9e56c6f39039026faabec5f6f1b71d5ec3b47c8f40524c3fd46e51d9f9b927"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-38fd57e8-common/6.4.1+ac3e15d16c/fabric-transitive-access-wideners-v1-38fd57e8-common-6.4.1+ac3e15d16c.jar"
+hash = "3bb46d3e22db4fb3df2682639371c601da5b8bf2b274889a98436da013b00245"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-38fd57e8-common/6.4.1+ac3e15d16c/fabric-transitive-access-wideners-v1-38fd57e8-common-6.4.1+ac3e15d16c.pom"
+hash = "e3ee5996c2f742ccb17d3cc94a44c0dab524c1be80419b6a4c7f15c297d11429"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-a5b452c0-common/6.4.1+ac3e15d1f3/fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3-sources.jar"
+hash = "ad9ac2f547d26342b0ddbc7f6ac914022f1677623b89dac0df462c6449794676"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-a5b452c0-common/6.4.1+ac3e15d1f3/fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3.jar"
+hash = "6e7ca242c8dd8f914fcea394a29174176a6ae8517b7776655e5672f8ea4e6c72"
+
+[[files]]
+file = ".gradle/loom-cache/remapped_mods/remapped/net/fabricmc/fabric-api/fabric-transitive-access-wideners-v1-a5b452c0-common/6.4.1+ac3e15d1f3/fabric-transitive-access-wideners-v1-a5b452c0-common-6.4.1+ac3e15d1f3.pom"
+hash = "59784209bd55893d25fec86b92abc89525893fc62527b22c8f01c59673487663"
+
+[[files]]
+file = ".gradle/loom-cache/source_mappings/077c1ca8a67f63c999b4b3c5adee19230b53302c.tiny"
+hash = "a68a27118373722c644cf3647e826edd764e55c988ee14ac09d1d3a3ed53ef0a"
+
+[[files]]
+file = ".gradle/vcs-1/gc.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".idea/compiler.xml"
+hash = "9ebbae8cd959e5da5e70f2848ce13cb4310ac686ea8095f942a437de94219363"
+
+[[files]]
+file = ".idea/gradle.xml"
+hash = "dde9219ece4d568e353a21172d996c06dd3f56d35af9813a1de8b3c7ef1e211a"
+
+[[files]]
+file = ".idea/misc.xml"
+hash = "b3118e003f033ce7635d4949eb6c389e49e1560f119363cf8b68ca7f5b8fe1a4"
+
+[[files]]
+file = ".idea/runConfigurations/Minecraft_Client.xml"
+hash = "1fa47ce3abf31e44b9c7e18fd6e9bd6f04499ffac6ff74da92f982009e946320"
+
+[[files]]
+file = ".idea/runConfigurations/Minecraft_Server.xml"
+hash = "2487ef4b45a1c1b8bed17b3123749b643c52f96de353cd8f33ec9fb1af84bcec"
+
+[[files]]
+file = ".idea/workspace.xml"
+hash = "be06e62bd8ee9a1a8ab1ac8213ca3975231d0d8373c813beb34602bea14aa0a1"
+
+[[files]]
+file = ".vscode/settings.json"
+hash = "1964046e9ca6ab85cc170d42cc8252c1560f434a743d81c2054a243723a2a90a"
+
+[[files]]
+file = "LICENSE"
+hash = "635fe6649032a2ff996617396a73c6ea0baa0f8ad9a41556b128fd706ef76599"
+
+[[files]]
+file = "README.md"
+hash = "0b707f0b5d8d92ca7cc273aa4e10a6bc2841376779440cf01c1a380de110d227"
+
+[[files]]
+file = "build.gradle"
+hash = "7e88a129b8e8aba0dade6303fb686a7fc1a4fd23776c0b3215c86c730ee13c99"
+
+[[files]]
+file = "build/classes/java/client/client-eventclubmod-refmap.json"
+hash = "45a9f54f158e29ffd45d1d2347f545be70d1996f1ca7e4fd8647b3d08c51daf8"
+
+[[files]]
+file = "build/classes/java/client/com/eventclubmod/EventClubModClient.class"
+hash = "9d96018d5f5d3ff3abebc107075992e6ed1af26ad289658d17cf4f2ae87f2f7e"
+
+[[files]]
+file = "build/classes/java/client/com/eventclubmod/client/render/ShadowNpcRenderer.class"
+hash = "367d2753d7d7be7b8cd241c3ff4eebe7c6fa6354576d7fd17957bb3aca6269cc"
+
+[[files]]
+file = "build/classes/java/client/com/example/ExampleModClient.class"
+hash = "b485ffa64999c87ac7a5405d5ff1d6bbaf913f8cc81c457d70007a44b0923aa0"
+
+[[files]]
+file = "build/classes/java/client/com/example/mixin/client/ExampleClientMixin.class"
+hash = "6adbe155d22e24949e67a66b72bebb8a0ec425d057d462a1fefa645931010e69"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/EventClubMod.class"
+hash = "3d6b025d1dfc49cb011bd77bf3fbb9517d02d4dd801266ed91bccacae5a9a3ff"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/command/ModCommands.class"
+hash = "ba2a6d3c6fe3b94af1912a3f7f0dfd683d37eb9cfc5450d9c12267a80e092807"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/config/ModConfig$ShadowPos.class"
+hash = "f1b4155179f2603f00a60c5abf733738ab5939de9a3902ce58972dcb1f44441b"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/config/ModConfig.class"
+hash = "bb883cd03144d5cac88f2e0ec83ff0cf7a44a10282876205a2deb2be39f7d061"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/entity/ShadowNpcEntity.class"
+hash = "72357c4ad40a56740383e7e7f30e31321dab4dac25c0e9683b98af75a327bf53"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/features/WelcomeNoteFeature.class"
+hash = "cf8bea159f70d8cf883c3c90aea13057b16106b672a7930a8ba6b4365664ac9c"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/features/shadow/ShadowNpcManager.class"
+hash = "b1966a695dce8429bd33ed2fa121639d29e5167d51148161201c31f67b8aa0d1"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/mixin/EventClubMixin.class"
+hash = "17fe54852311c8ad52798ad0324562ceb9eb585188ff9684c000833479d6e3b4"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/registry/ModEntities.class"
+hash = "68dc0140014cc744afb2b81efb42d7a383274a1aac752558f6cb4bc7ca503142"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/storage/NoteStorage$1.class"
+hash = "2343bf976032c2480f4a1c4d6de679fcceaf4868f21b478d377807974a8c5bc2"
+
+[[files]]
+file = "build/classes/java/main/com/eventclubmod/storage/NoteStorage.class"
+hash = "70315febe9460d0f360229318064218e192274e48202aebd17efe4e7e9a68bee"
+
+[[files]]
+file = "build/classes/java/main/eventclubmod-refmap.json"
+hash = "e8b36303dd5cdb35494af484f974e957af5225d3692d75f0c690ecec76d34e5b"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.0.1-dev.jar"
+hash = "7a6efbb4bac92cbf86aaf5a48807a6db29142e8355c7b5cd3e086a5ddbb7d35e"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.0.1-sources.jar"
+hash = "3d4c3a8d601fc2e8602438bc5cc94f38285166773f6413054a3f3778a19f9276"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.0.2-dev.jar"
+hash = "197a8fa1d8eeb1dd28db9e628c44137044884f23954ee4ced290f1b80ce39aef"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.0.2-sources.jar"
+hash = "113838d7e0f045faec6dec9802a39d125136697fc423e277e8366d0aacb697b6"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.0-dev.jar"
+hash = "bbc8c9fbfd806428303c20eeb10b301fe8810b414208cabb39bef3a6d4d20e13"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.0-sources.jar"
+hash = "7894a66159d83469760b5388a1bc6392c7b595a5c21772a6731c064267496f7b"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.2-dev.jar"
+hash = "f522850f1751991b0c219bd7177a20958d20c85ba81bf172bf14d1eb89a41649"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.2-sources.jar"
+hash = "36b3584d3208d594b43469abacd0531291126e58726ce8d7558dc67f8640cd8c"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.4-dev.jar"
+hash = "8b7e6da51c7f66190795b09ad95ceb64e2c58d8af2c6b510e613b28502c6a53a"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.4-sources.jar"
+hash = "354a078eaf8f3d927fb4ef929a55719c54f1a8e5c47a9adb58f76015031afe83"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.5-dev.jar"
+hash = "e06f8f34e579f8cb41773896bd2b8acd9e3903045382911f37443bb38e4669ee"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.5-sources.jar"
+hash = "67fc7c310dba129345a8e775651f62a700bb72dc44371168234853f628f15073"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.6-dev.jar"
+hash = "3949ae669c4eb85d9172b4bb9e27b3320829f755b3f3f5a874b4d6b9dd4a34dd"
+
+[[files]]
+file = "build/devlibs/eventclubmod-0.1.6-sources.jar"
+hash = "fa1b7551c90bddd18e6dc5d7131c20b17d8833ff1a95f3d8c4694b046b2ae846"
+
+[[files]]
+file = "build/libs/eventclubmod-0.0.1-sources.jar"
+hash = "777f32ffc4d64594c44dda293af536e065cecfd2a0605c09272922a47e9242ab"
+
+[[files]]
+file = "build/libs/eventclubmod-0.0.1.jar"
+hash = "7f436c765c3db05b9104fdc10d8ee33c5d414c3d62ed4b12708facad7beaab99"
+
+[[files]]
+file = "build/libs/eventclubmod-0.0.2-sources.jar"
+hash = "801776cf45837a166523c296b60fe2f49300b4993bcfd18b39059db2bd1e43f7"
+
+[[files]]
+file = "build/libs/eventclubmod-0.0.2.jar"
+hash = "9426e3b4cd8ac1406fb653489ae3c919ee3633dd63325c1ae6020a9e3b3d7eb6"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.0-sources.jar"
+hash = "43dae92e8c66e76a1680666a1a11a5bcf367205f79798d63813383643f3dce2c"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.0.jar"
+hash = "9e691149ab9ca15062438831a9be08e7be65ad5b695d5496b1bc7465bf5d74ee"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.2-sources.jar"
+hash = "cfb36bfdd6b36768b7dd1ea5dafb696871d46c8fb453072df2c6d5f10a3adf69"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.2.jar"
+hash = "cfecf4c7477ba7fdec6bf73ca5f066d980f7b4a9275dc72dfbaef7207bd9bc80"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.4-sources.jar"
+hash = "7fcd96ac5953f5a02dee0051acf640432bb02215d083c71b678fdb61da76ce24"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.4.jar"
+hash = "f7e9acd6fc0a88d978999c730b8b0d06c7e028fe5d831abd66599850d7180fe3"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.5-sources.jar"
+hash = "7396b6da1781d4aa7cc6a41b40ebf0cc1e51d60d85fe34390fae14a7e65e4f5e"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.5.jar"
+hash = "ae5a2cc66a54f04075192288388bdf3234b1df481a0d08ecbe7f0fb09b125a5f"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.6-sources.jar"
+hash = "29eb8a989137e68fc33965df715b6750eab2556309bb6d88e4a8cae0886fa8b3"
+
+[[files]]
+file = "build/libs/eventclubmod-0.1.6.jar"
+hash = "719083a213e67bb5ab2966a4432e8c2d14942033637372296a9359deb96230d4"
+
+[[files]]
+file = "build/loom-cache/argFiles/runClient"
+hash = "ebf5c56d241561bac44077c2f1bb4698959ecf143ebb9119bab5ded5363c1bca"
+
+[[files]]
+file = "build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.client.tiny"
+hash = "5e66b379d9dfe561e5474f89a9f772447a103c3f3ae77a6224f03266a608d95d"
+
+[[files]]
+file = "build/loom-cache/mixin-map-net.fabricmc.yarn.1_21_7.1.21.7+build.1-v2.main.tiny"
+hash = "5e66b379d9dfe561e5474f89a9f772447a103c3f3ae77a6224f03266a608d95d"
+
+[[files]]
+file = "build/reports/problems/problems-report.html"
+hash = "6218c3de84c70f42a4626b0d7279c2eacdbac91717c807e4da61b250a36a22dc"
+
+[[files]]
+file = "build/resources/client/modid.client.mixins.json"
+hash = "4a04ea82182f296090484e5caa27174bad52b3444dd7460e6b12e75e9a8579e5"
+
+[[files]]
+file = "build/resources/main/assets/eventclubmod/icon.png"
+hash = "e7681741df50ccd1fa3c35e7e4d1db63d7122f3356f2d79f86c09180b3369ec0"
+
+[[files]]
+file = "build/resources/main/assets/eventclubmod/textures/entity/shadow.png"
+hash = "490fd642b23b699841eef66d169670a88f0c97f1ded424fc46025c4f99af05cc"
+
+[[files]]
+file = "build/resources/main/eventclubmod.mixins.json"
+hash = "108b2725ca784e43bce3038a72ccdb968bdb688dd36defbd71ba4da1ff09c663"
+
+[[files]]
+file = "build/resources/main/fabric.mod.json"
+hash = "ad0e0527a006f452f3d9e40e9d69bae285a06b3b1d69402f149432854c995267"
+
+[[files]]
+file = "build/tmp/compileClientJava/previous-compilation-data.bin"
+hash = "c1f3126e2c1ea46c0dd85d246df05b840ba9df6dfe7c72f52c29c2669243eb52"
+
+[[files]]
+file = "build/tmp/compileJava/previous-compilation-data.bin"
+hash = "c2bf59fcb01d6e10249744e142a6256e92c8542592fa71322584ace396634c72"
+
+[[files]]
+file = "build/tmp/jar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "build/tmp/remapJar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "build/tmp/remapSourcesJar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "build/tmp/sourcesJar/MANIFEST.MF"
+hash = "566ad1a80220026d05099562645ce968ff0e7c36cde22634332605bb34cc3eff"
+
+[[files]]
+file = "docs/index.html"
+hash = "084f1fa9ed5ecb57084e2811a9d314d07c90bfbba51844b7fec742643a6835c1"
+
+[[files]]
+file = "gradle.properties"
+hash = "e4a3de27105014930bfb26429f923f273f2d480618d10454a6117e99c7b94c6d"
+
+[[files]]
+file = "gradle/wrapper/gradle-wrapper.jar"
+hash = "7d3a4ac4de1c32b59bc6a4eb8ecb8e612ccd0cf1ae1e99f66902da64df296172"
+
+[[files]]
+file = "gradle/wrapper/gradle-wrapper.properties"
+hash = "97e38c4092036e177d1d31ebb454332a61a1d1313fc76aefe34b35e88211715d"
+
+[[files]]
+file = "gradlew"
+hash = "b187b4c52e749f5760afdd6fadc31b2a98ad35fb249bf0dff03b72650f320409"
+
+[[files]]
+file = "gradlew.bat"
+hash = "1d297e00bd21de3ace22b4d7f2de1f9dfa858883d66bbf7c1ccbecccec8f4f3b"
+
+[[files]]
+file = "mods/eventclubmod.pw.toml"
+hash = "d5e1c43ae582e4198c87ca141f2d9debab7af028ded639c5b285308fa625ebba"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
+metafile = true
+
+[[files]]
+file = "run/.fabric/processedMods/modmenu-15.0.0-beta.3-64b5720b4b825f21.jar"
+hash = "12ff92b2c70ad0fbce32d7229978c77de8d15c4db56cb3bb39e24cd4e7738fa7"
+
+[[files]]
+file = "run/.fabric/processedMods/placeholder-api-2.7.0+1.21.6-23b132bdbfc53dbe.jar"
+hash = "ddda18c3fd899f3c964c0aae0ad5feca5d82d32fb3475c4b417566f0145833b2"
+
+[[files]]
+file = "run/command_history.txt"
+hash = "6d62d7aa536bf2de80ef067bc5b4a31656d1833bed34edccf23452596c4e8335"
+
+[[files]]
+file = "run/config/eventclubmod/config.json"
+hash = "6fe82b9cdb8cc87d9dbd4e5a9b9c6711fbde594be9c4baff0c76939862ef9f24"
+
+[[files]]
+file = "run/config/eventclubmod/given_notes.json"
+hash = "754ed234d0cf8002b1e9057e877c85bbbdc5c27096fa4895c24a017d66eb429b"
+
+[[files]]
+file = "run/config/eventclubmod/shadow_lore.txt"
+hash = "61a0f92f4b5370830737e6d7f04c9b7b8c42e2e33f3e3f7a7d193dd437a0443e"
+
+[[files]]
+file = "run/config/fabric/indigo-renderer.properties"
+hash = "87cb09111da62cabe3bbdbcd4cd6014b901a61e7f052f99145c83581aedbc448"
+
+[[files]]
+file = "run/config/modmenu.json"
+hash = "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b"
+
+[[files]]
+file = "run/crash-reports/crash-2025-08-26_17.31.33-client.txt"
+hash = "815dd310552f369eb4678458bb50278853a19035de0432cde99ad384cb1a02b9"
+
+[[files]]
+file = "run/data/fabricDefaultResourcePacks.dat"
+hash = "b95faeb64d3684f434425ecb06eace523dcdab10d9e446ba80eb3bdcf44be208"
+
+[[files]]
+file = "run/downloads/log.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "run/logs/2025-08-26-1.log.gz"
+hash = "0b0e63bae00280225c4bc3d68653c0a72740b478c80b6b14ca0cf554a1cab7af"
+
+[[files]]
+file = "run/logs/2025-08-26-2.log.gz"
+hash = "1b5cc0464aaa0a48fc8803e91e7dbb1bd7e3f8337f15a5efc80b8ee05745298c"
+
+[[files]]
+file = "run/logs/2025-08-26-3.log.gz"
+hash = "d714eb4f712fc3c0929319c187a30751902cf56d707978e6af6b2be49ed9d88c"
+
+[[files]]
+file = "run/logs/2025-08-26-4.log.gz"
+hash = "1b4d41856de8af3715a1414033adcee2fc603e1553791a344f9f2b6064b6978e"
+
+[[files]]
+file = "run/logs/2025-08-26-5.log.gz"
+hash = "c008a346e82e26be86ee8cf32312ae3fddbea0877ff3ffe56b72fa9316f45d6e"
+
+[[files]]
+file = "run/logs/2025-08-26-6.log.gz"
+hash = "440891c5f291dbcb1faeb008425096f0064751d3c19e26d286805847dfb10b94"
+
+[[files]]
+file = "run/logs/2025-08-26-7.log.gz"
+hash = "655782963699f46036d9f36c4d3fccaa487cd1177501477c9fd917ed431968df"
+
+[[files]]
+file = "run/logs/debug-1.log.gz"
+hash = "31537aeeb19d844e9d9011f04bd143b5c24f27eab89aa6d6ada08fe5ecb00361"
+
+[[files]]
+file = "run/logs/debug-2.log.gz"
+hash = "b79a5650c12e2d26e0d364a3f3abe1611d91cf18f72c958827583ff7830220f0"
+
+[[files]]
+file = "run/logs/debug-3.log.gz"
+hash = "6e120541f16a00bbdb626698f59a2207e8fb6610776356b34f53981b82870ace"
+
+[[files]]
+file = "run/logs/debug-4.log.gz"
+hash = "4c478e00b76fb2807a8e6fdfe4c2891739341e7ef9fd7db0a2f7fff07139a126"
+
+[[files]]
+file = "run/logs/debug-5.log.gz"
+hash = "35384c049bb252cdedebb4d10d1afff490c169b030d112141680d3242b896588"
+
+[[files]]
+file = "run/logs/debug.log"
+hash = "55a82e3fa8fd3478b3871de9e97891963a1ae5a86313f68541ae609efa8b2135"
+
+[[files]]
+file = "run/logs/latest.log"
+hash = "c6b82ef3e5f34ae2fa2136d50f25eaeec203c6988835068131bc1fc43b98d120"
+
+[[files]]
+file = "run/mods/modmenu-15.0.0-beta.3-1.21.6-fabric.jar"
+hash = "c5785c03fe1f075563c8f108bbd638750eeb4a11b351a829317fa1acca1299ee"
+
+[[files]]
+file = "run/options.txt"
+hash = "df040aed6a5d7d2419fca228539a4a22c9c453dd2faa7c2587914558674bd8f7"
+
+[[files]]
+file = "run/saves/Новый мир/DIM-1/data/chunks.dat"
+hash = "8f77e5e4978d9d079f3c5159c223a541725c475c715213a5c29801c2d48a3f09"
+
+[[files]]
+file = "run/saves/Новый мир/DIM-1/data/raids.dat"
+hash = "44cfebe1761bda5cd3a1933c8cffad312513aab6b8e3efa89faeb114fe510e70"
+
+[[files]]
+file = "run/saves/Новый мир/DIM1/data/chunks.dat"
+hash = "8f77e5e4978d9d079f3c5159c223a541725c475c715213a5c29801c2d48a3f09"
+
+[[files]]
+file = "run/saves/Новый мир/DIM1/data/raids_end.dat"
+hash = "44cfebe1761bda5cd3a1933c8cffad312513aab6b8e3efa89faeb114fe510e70"
+
+[[files]]
+file = "run/saves/Новый мир/advancements/44d903f8-18c4-31d1-b8f3-054c7e2bcb1f.json"
+hash = "5428a34aee3f0d0bfc1305030e0cbf44f069f18c07310e7a4c98a9ac4a3bb012"
+
+[[files]]
+file = "run/saves/Новый мир/advancements/639dfc76-1a27-31fc-875c-bff057b71a91.json"
+hash = "1635964751b0ab97b534616105697f6436b2844b7dce8be3551913b8d5c81d00"
+
+[[files]]
+file = "run/saves/Новый мир/advancements/6f3f457a-8ce3-3a45-8767-61c2dfd0e70f.json"
+hash = "feb77b6d41aab16cc2c59d2b5a49b57b8b94d41b6776086bfd91a72ad7b1847c"
+
+[[files]]
+file = "run/saves/Новый мир/advancements/ab8db6cf-78bd-396a-b9c3-4e2021f3ea40.json"
+hash = "d74610ef2f56e31058d6502123181e42ce957f489846408085895aa2ffd40750"
+
+[[files]]
+file = "run/saves/Новый мир/data/chunks.dat"
+hash = "8f77e5e4978d9d079f3c5159c223a541725c475c715213a5c29801c2d48a3f09"
+
+[[files]]
+file = "run/saves/Новый мир/data/raids.dat"
+hash = "44cfebe1761bda5cd3a1933c8cffad312513aab6b8e3efa89faeb114fe510e70"
+
+[[files]]
+file = "run/saves/Новый мир/data/random_sequences.dat"
+hash = "faf2782a0d0d6f6b841c53d542d7495d20e12e0fdceba7aaa6dea349afe6d6f1"
+
+[[files]]
+file = "run/saves/Новый мир/data/scoreboard.dat"
+hash = "8f77e5e4978d9d079f3c5159c223a541725c475c715213a5c29801c2d48a3f09"
+
+[[files]]
+file = "run/saves/Новый мир/entities/r.-1.-1.mca"
+hash = "50c9390a33692d7f0a3d29840a9085b7202431f6a78a7d268294f08b0803edb1"
+
+[[files]]
+file = "run/saves/Новый мир/entities/r.-1.0.mca"
+hash = "1e3fa728e3fbd2b6349ba2bd75f4bb6301206945460afce44d543d2aac4435fa"
+
+[[files]]
+file = "run/saves/Новый мир/entities/r.0.-1.mca"
+hash = "a3681cf4f9190f088a0e13d860b59ee53623cd8f259889e313947840f56a83d1"
+
+[[files]]
+file = "run/saves/Новый мир/entities/r.0.0.mca"
+hash = "65cd25b297abe3510fab16a57a441e651c2fe002e820a37261ed6a0c9b7d3c91"
+
+[[files]]
+file = "run/saves/Новый мир/icon.png"
+hash = "84c0f680fe6f2bad3e24e6d92764b53909bd525fba9aceefb57c84a16e58535c"
+
+[[files]]
+file = "run/saves/Новый мир/level.dat"
+hash = "37b08c91d1b69fd1add4fa37ddefd1a1990b4ed3faf460511b345fa1d1c4466e"
+
+[[files]]
+file = "run/saves/Новый мир/level.dat_old"
+hash = "cf51a8615aca39572610ffc38277f83ddb41cdd98e49d099e5e6ceb3beab5dc6"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/44d903f8-18c4-31d1-b8f3-054c7e2bcb1f.dat"
+hash = "97cb4b266d7338f88cc0dab03133e370865b2e869067361aefcfd405f9728a89"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/44d903f8-18c4-31d1-b8f3-054c7e2bcb1f.dat_old"
+hash = "e32d1c07c9ceb5858a52f02722deb478aaca7b109ff95a999adf6b30e4ade2e1"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/639dfc76-1a27-31fc-875c-bff057b71a91.dat"
+hash = "acb9c32884f79c26998204eb7beeeadbd81f4966c142fc078008c01102c48f0a"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/639dfc76-1a27-31fc-875c-bff057b71a91.dat_old"
+hash = "615af24780e4ca2295839002c8f64b8dbb04d784aa0f76eb9057956a12056a8b"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/6f3f457a-8ce3-3a45-8767-61c2dfd0e70f.dat"
+hash = "042ce8d16c0905fa4bc857dcb20a30b8bef48f1ee7fbfddd84eaa8967ab4572b"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/6f3f457a-8ce3-3a45-8767-61c2dfd0e70f.dat_old"
+hash = "22411dbd9fb31efe7b3498dc7c5d32d9d5fe101856e7524b2305ff97515df4e0"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/ab8db6cf-78bd-396a-b9c3-4e2021f3ea40.dat"
+hash = "8a341e8e0508141316e4e4a11e06240f3aeb47a984ee69137272aa03f608f827"
+
+[[files]]
+file = "run/saves/Новый мир/playerdata/ab8db6cf-78bd-396a-b9c3-4e2021f3ea40.dat_old"
+hash = "8e0a8eeb23b0710fc1fb479f9f7e65ed8a1a933344d6fd4c0760bb0b38cb776e"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.-1.-1.mca"
+hash = "75f9a84f17f2ea09ed5d7a897d2bc9e6a8b303e98688317933ff86ed1b6f128d"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.-1.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.-1.0.mca"
+hash = "450cdd1dc628ffc8de93ae3774ef536343486c238e949b5b97e03afc881250ec"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.0.-1.mca"
+hash = "e74d966a5fc42447c12ab7de43a7e2a9c26e0de8cd51e898d040722557cf6841"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.0.-2.mca"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "run/saves/Новый мир/poi/r.0.0.mca"
+hash = "74c8a609148bd6f264f3055b451e32fc7818340b8d7c9bbd93a10b9244bef774"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.-1.-1.mca"
+hash = "ee9e51d9ea8723b178f4a54865d35aae6dd53ac28220d31aedc112c3aba81639"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.-1.-2.mca"
+hash = "cd20479553c6414bf946516842a3bf4563609a2f9f57b49076ac76e1ebec7b61"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.-1.0.mca"
+hash = "1600b057100fc4591baecd70b4f1b1b4327e55a7d7b110b637fdbfafd4b71a7d"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.0.-1.mca"
+hash = "960ca5e4960d720064ac1450b2ff019b742fb79800c958215ecfc09357a6586e"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.0.-2.mca"
+hash = "99e7d321fa9d33f72b559b93a97f3e8351a7252bd5176143dc37cec453821c43"
+
+[[files]]
+file = "run/saves/Новый мир/region/r.0.0.mca"
+hash = "455b61f0f4f1e37eea7b93104afd8df6a670bc91ecafa4bcd0678e2973513e9f"
+
+[[files]]
+file = "run/saves/Новый мир/session.lock"
+hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+
+[[files]]
+file = "run/saves/Новый мир/stats/44d903f8-18c4-31d1-b8f3-054c7e2bcb1f.json"
+hash = "3bfc554f5948a094196a63de3319db7faac2d387fcb454a33dba12b2e42201af"
+
+[[files]]
+file = "run/saves/Новый мир/stats/639dfc76-1a27-31fc-875c-bff057b71a91.json"
+hash = "3bb6834dea8bb2d23321a378c3845d03429f9465427269234f4208e847f92821"
+
+[[files]]
+file = "run/saves/Новый мир/stats/6f3f457a-8ce3-3a45-8767-61c2dfd0e70f.json"
+hash = "1df19ba30ac62a24fb2f5badffc62a1549feac75f366ed0485cc8f1673cd4304"
+
+[[files]]
+file = "run/saves/Новый мир/stats/ab8db6cf-78bd-396a-b9c3-4e2021f3ea40.json"
+hash = "eb6f35d0c00aac531d3475e132cbfecbd85aa70e0514987cd7a05797eaa27863"
+
+[[files]]
+file = "run/screenshots/2025-08-26_17.54.39.png"
+hash = "98e549891c797731ee2b907fe387953f10826bd4be8351c249b2acb5fccb5ca7"
+
+[[files]]
+file = "run/usercache.json"
+hash = "fc448c926a364537b95f527c5d84614dec6de5771c93edf29b423c699b775bac"
+
+[[files]]
+file = "settings.gradle"
+hash = "03a3f7eba79cb36dfcfdbdd8f80ed5ac4f64459bba615c3dcc5868031362d67d"
+
+[[files]]
+file = "src/client/java/com/eventclubmod/EventClubModClient.java"
+hash = "26ab45e1e36472f297adb21628bd3931bf491408d6b7a0930578e68863c0437c"
+
+[[files]]
+file = "src/client/java/com/eventclubmod/client/render/ShadowNpcRenderer.java"
+hash = "039cb7218b8bd700dae84c5cec4df5aa0341e69862a52690d7b39573e861819b"
+
+[[files]]
+file = "src/client/java/com/example/ExampleModClient.java"
+hash = "45c19b18127c55ab4390527b20c0288420881ef6770a5d7f36da5a906972ef74"
+
+[[files]]
+file = "src/client/java/com/example/mixin/client/ExampleClientMixin.java"
+hash = "1c3c64fc487af76f242c2e85aa6b08a24fed2070a5e3017e239756b46a623dbc"
+
+[[files]]
+file = "src/client/resources/modid.client.mixins.json"
+hash = "4a04ea82182f296090484e5caa27174bad52b3444dd7460e6b12e75e9a8579e5"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/EventClubMod.java"
+hash = "7e0334c2c2fb36af4862469e8829fb371d01e4ca1da7b51a9c46f7140594a804"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/command/ModCommands.java"
+hash = "6397117ad8fa23b0d88ec8f45349c3cdef0d15bd225799140ae43fe715a07aec"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/config/ModConfig.java"
+hash = "47ccc8e977c932415f5904b13ad325f6ddcf9c6e8749a098ee4363a012740c6f"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/entity/ShadowNpcEntity.java"
+hash = "c2d808ee882901b346d2fb671be6c632c1e19dad9e856a901ad834f20034563a"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/features/WelcomeNoteFeature.java"
+hash = "63f0c829f22b420db81b2f2a0af9bcb71c7cfb1e63d76d55dc72df46f63e2757"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/features/shadow/ShadowNpcManager.java"
+hash = "f6dd74032d051900a89cf0041a4cf749eda590610e27bc72f60b76eb469f2ab1"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/mixin/EventClubMixin.java"
+hash = "5d9dfeed02c831bc9c3bea3876759391b8bcf0bbcbe10366abad99e2a0c6deb6"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/registry/ModEntities.java"
+hash = "d80d10499e74aee0edbcaa5b147816ab5b1c777f6bc16cf4684cc6eaaa4d89ed"
+
+[[files]]
+file = "src/main/java/com/eventclubmod/storage/NoteStorage.java"
+hash = "1d0e205407c1732a29572310db756708d25e140f00d6ab3463ca0680844b08eb"
+
+[[files]]
+file = "src/main/resources/assets/eventclubmod/icon.png"
+hash = "e7681741df50ccd1fa3c35e7e4d1db63d7122f3356f2d79f86c09180b3369ec0"
+
+[[files]]
+file = "src/main/resources/assets/eventclubmod/textures/entity/shadow.png"
+hash = "490fd642b23b699841eef66d169670a88f0c97f1ded424fc46025c4f99af05cc"
+
+[[files]]
+file = "src/main/resources/eventclubmod.mixins.json"
+hash = "108b2725ca784e43bce3038a72ccdb968bdb688dd36defbd71ba4da1ff09c663"
+
+[[files]]
+file = "src/main/resources/fabric.mod.json"
+hash = "23d56e5a2b8081beb322e5f26645edb1265129e0787d9c5e0236692d256c02ed"
